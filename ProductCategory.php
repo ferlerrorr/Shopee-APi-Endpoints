@@ -1,4 +1,7 @@
 <?php
+
+//! This function is not relevant to the project just added for testting purposes
+
 //!Dependencies
 require_once '_configLoader.php';
 require_once '_getGenerateSign.php';
@@ -14,7 +17,7 @@ $redirect_url = $_ENV['REDIRECT_URL'];
 $time_stamp = time();
 //! Global Variables
 $path = '/api/v2/product/get_category';
-$base_string = sprintf("%s%s%s", $partner_id, $path, $time_stamp);
+$base_string = sprintf("%s%s%s%s%s", $partner_id, $path, $time_stamp, $access_token, $shop_id);
 // var_dump($base_string);
 $sign = generateSign($base_string, $partner_key);
 // var_dump($sign);

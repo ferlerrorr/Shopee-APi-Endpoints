@@ -1,0 +1,158 @@
+{
+  "item_list": [
+    {
+      "item_id": 1862913,
+      "category_id": 102011,
+      "item_name": "Cathy Doll Aqua Sun Non Greasy Body Sun Serum SPF50 PA+++ 10ml - 6s",
+      "item_sku": "61069",
+      "create_time": 1709350866,
+      "update_time": 1709350867,
+      "price_info": [
+        { "currency": "PHP", "original_price": 49, "current_price": 49 }
+      ],
+      "image": {
+        "image_id_list": ["ph-11134207-7r98o-lsdnivmcsow1af"],
+        "image_url_list": [
+          "https://cf.shopee.ph/file/ph-11134207-7r98o-lsdnivmcsow1af"
+        ]
+      },
+      "weight": "0.01",
+      "dimension": {
+        "package_length": 0,
+        "package_width": 0,
+        "package_height": 0
+      },
+      "logistic_info": [
+        {
+          "logistic_id": 40021,
+          "logistic_name": "GoGo Xpress",
+          "enabled": true,
+          "size_id": 1,
+          "is_free": false,
+          "estimated_shipping_fee": 0
+        },
+        {
+          "logistic_id": 40066,
+          "logistic_name": "Shopee Xpress",
+          "enabled": true,
+          "size_id": 1,
+          "is_free": false,
+          "estimated_shipping_fee": 0
+        },
+        {
+          "logistic_id": 40018,
+          "logistic_name": "J\u0026T Express",
+          "enabled": true,
+          "size_id": 1,
+          "is_free": false,
+          "estimated_shipping_fee": 5
+        }
+      ],
+      "pre_order": { "is_pre_order": false, "days_to_ship": 2 },
+      "condition": "NEW",
+      "size_chart": "",
+      "item_status": "NORMAL",
+      "has_model": false,
+      "promotion_id": 0,
+      "brand": { "brand_id": 0, "original_brand_name": "NoBrand" },
+      "item_dangerous": 0,
+      "description_info": {
+        "extended_description": {
+          "field_list": [
+            {
+              "field_type": "text",
+              "text": "Easy to blend\nProtects the skin from UV Rays with long lasting effects\nNourishes the skin\n6 pcs\n "
+            }
+          ]
+        }
+      },
+      "description_type": "extended",
+      "stock_info_v2": {
+        "summary_info": {
+          "total_reserved_stock": 0,
+          "total_available_stock": 1
+        },
+        "seller_stock": [{ "location_id": "", "stock": 1 }],
+        "shopee_stock": [{ "location_id": "", "stock": 0 }]
+      },
+      "size_chart_id": 0
+    },
+    {
+      "item_id": 1862986,
+      "category_id": 100659,
+      "item_name": "Bench Baby Colonia Jellybean 50ml",
+      "item_sku": "52323",
+      "create_time": 1709351858,
+      "update_time": 1709351858,
+      "price_info": [
+        { "currency": "PHP", "original_price": 41, "current_price": 41 }
+      ],
+      "image": {
+        "image_id_list": ["ph-11134207-7r98o-lsdo36iv7im99e"],
+        "image_url_list": [
+          "https://cf.shopee.ph/file/ph-11134207-7r98o-lsdo36iv7im99e"
+        ]
+      },
+      "weight": "0.01",
+      "dimension": {
+        "package_length": 0,
+        "package_width": 0,
+        "package_height": 0
+      },
+      "logistic_info": [
+        {
+          "logistic_id": 40021,
+          "logistic_name": "GoGo Xpress",
+          "enabled": true,
+          "size_id": 1,
+          "is_free": false,
+          "estimated_shipping_fee": 0
+        },
+        {
+          "logistic_id": 40066,
+          "logistic_name": "Shopee Xpress",
+          "enabled": true,
+          "size_id": 1,
+          "is_free": false,
+          "estimated_shipping_fee": 0
+        },
+        {
+          "logistic_id": 40018,
+          "logistic_name": "J\u0026T Express",
+          "enabled": true,
+          "size_id": 1,
+          "is_free": false,
+          "estimated_shipping_fee": 5
+        }
+      ],
+      "pre_order": { "is_pre_order": false, "days_to_ship": 2 },
+      "condition": "NEW",
+      "size_chart": "",
+      "item_status": "NORMAL",
+      "has_model": false,
+      "promotion_id": 0,
+      "brand": { "brand_id": 0, "original_brand_name": "NoBrand" },
+      "item_dangerous": 0,
+      "description_info": {
+        "extended_description": {
+          "field_list": [
+            {
+              "field_type": "text",
+              "text": "Especially formulated for you and your family's delicate skin, Baby Bench Colonia is gently scented and has a non-irritating formula"
+            }
+          ]
+        }
+      },
+      "description_type": "extended",
+      "stock_info_v2": {
+        "summary_info": {
+          "total_reserved_stock": 0,
+          "total_available_stock": 1
+        },
+        "seller_stock": [{ "location_id": "", "stock": 1 }],
+        "shopee_stock": [{ "location_id": "", "stock": 0 }]
+      },
+      "size_chart_id": 0
+    }
+  ]
+}

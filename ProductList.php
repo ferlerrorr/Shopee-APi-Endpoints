@@ -1,4 +1,7 @@
 <?php
+
+//! The result of this script is paginated need to consolidate the whole json collection maximum per pages is 100 products
+
 //!Dependencies
 require_once '_configLoader.php';
 require_once '_getGenerateSign.php';
@@ -18,13 +21,12 @@ $time_stamp = time();
 //Todo Get All Products 
 try {
     $path = "/api/v2/product/get_item_list"; // Path may change dynamically
-    $base_string = sprintf("%s%s%s", $partner_id, $path, $time_stamp);
+    $base_string = sprintf("%s%s%s%s%s", $partner_id, $path, $time_stamp, $access_token, $shop_id);
     $sign = generateSign($base_string, $partner_key);
-    $url = strval($host) . strval($path) . '?access_token=' . strval($access_token) . '&item_status=%5B%22NORMAL%22%5D&offset=0&page_size=100&partner_id=' . strval($partner_id) . '&shop_id=' . strval($shop_id) . '&sign=' . strval($sign) . '&timestamp=' . strval($time_stamp) . '&update_time_from=1611311600&update_time_to=' . strval($time_stamp);
-
-    var_dump($base_string);
-    var_dump($sign);
-    var_dump($url);
+    $url = strval($host) . strval($path) . '?access_token=' . strval($access_token) . '&item_status=NORMAL&offset=0&page_size=100&partner_id=' . strval($partner_id) . '&shop_id=' . strval($shop_id) . '&sign=' . strval($sign) . '&timestamp=' . strval($time_stamp) . '&update_time_from=1611311600&update_time_to=' . strval($time_stamp);
+    // var_dump($base_string);
+    // var_dump($sign);
+    // var_dump($url);
     // Generate sign for the request
     $curl = curl_init();
     curl_setopt_array($curl, array(

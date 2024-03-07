@@ -1,0 +1,2027 @@
+{
+  "category_list": [
+    {
+      "category_id": 100001,
+      "parent_category_id": 0,
+      "original_category_name": "Health",
+      "display_category_name": "Health",
+      "has_children": true
+    },
+    {
+      "category_id": 102064,
+      "parent_category_id": 100001,
+      "original_category_name": "Others",
+      "display_category_name": "Others",
+      "has_children": false
+    },
+    {
+      "category_id": 100020,
+      "parent_category_id": 100001,
+      "original_category_name": "Sexual Wellness",
+      "display_category_name": "Sexual Wellness",
+      "has_children": false
+    },
+    {
+      "category_id": 100019,
+      "parent_category_id": 100001,
+      "original_category_name": "Personal Care",
+      "display_category_name": "Personal Care",
+      "has_children": true
+    },
+    {
+      "category_id": 102088,
+      "parent_category_id": 100019,
+      "original_category_name": "Hand Sanitizers",
+      "display_category_name": "Hand Sanitizers",
+      "has_children": false
+    },
+    {
+      "category_id": 100136,
+      "parent_category_id": 100019,
+      "original_category_name": "Feminine Care",
+      "display_category_name": "Feminine Care",
+      "has_children": false
+    },
+    {
+      "category_id": 100134,
+      "parent_category_id": 100019,
+      "original_category_name": "Oral Care",
+      "display_category_name": "Oral Care",
+      "has_children": false
+    },
+    {
+      "category_id": 100132,
+      "parent_category_id": 100019,
+      "original_category_name": "Eye Care",
+      "display_category_name": "Eye Care",
+      "has_children": false
+    },
+    {
+      "category_id": 100018,
+      "parent_category_id": 100001,
+      "original_category_name": "Medical Supplies",
+      "display_category_name": "Medical Supplies",
+      "has_children": true
+    },
+    {
+      "category_id": 102082,
+      "parent_category_id": 100018,
+      "original_category_name": "Medical Gloves \u0026 Masks",
+      "display_category_name": "Medical Gloves \u0026 Masks",
+      "has_children": false
+    },
+    {
+      "category_id": 102081,
+      "parent_category_id": 100018,
+      "original_category_name": "Laboratory Tools",
+      "display_category_name": "Laboratory Tools",
+      "has_children": false
+    },
+    {
+      "category_id": 102080,
+      "parent_category_id": 100018,
+      "original_category_name": "Pain Relievers",
+      "display_category_name": "Pain Relievers",
+      "has_children": false
+    },
+    {
+      "category_id": 102074,
+      "parent_category_id": 100018,
+      "original_category_name": "Stethoscopes",
+      "display_category_name": "Stethoscopes",
+      "has_children": false
+    },
+    {
+      "category_id": 102073,
+      "parent_category_id": 100018,
+      "original_category_name": "Nasal Care",
+      "display_category_name": "Nasal Care",
+      "has_children": false
+    },
+    {
+      "category_id": 102072,
+      "parent_category_id": 100018,
+      "original_category_name": "Scale \u0026 Body Fat Analyzers",
+      "display_category_name": "Scale \u0026 Body Fat Analyzers",
+      "has_children": false
+    },
+    {
+      "category_id": 102066,
+      "parent_category_id": 100018,
+      "original_category_name": "Traditional Medicine",
+      "display_category_name": "Traditional Medicine",
+      "has_children": false
+    },
+    {
+      "category_id": 102065,
+      "parent_category_id": 100018,
+      "original_category_name": "Over-the-counter Medicine",
+      "display_category_name": "Over-the-counter Medicine",
+      "has_children": false
+    },
+    {
+      "category_id": 100129,
+      "parent_category_id": 100018,
+      "original_category_name": "Injury \u0026 Disability Support",
+      "display_category_name": "Injury \u0026 Disability Support",
+      "has_children": true
+    },
+    {
+      "category_id": 102087,
+      "parent_category_id": 100129,
+      "original_category_name": "Others",
+      "display_category_name": "Others",
+      "has_children": false
+    },
+    {
+      "category_id": 102086,
+      "parent_category_id": 100129,
+      "original_category_name": "Hearing Aids",
+      "display_category_name": "Hearing Aids",
+      "has_children": false
+    },
+    {
+      "category_id": 102085,
+      "parent_category_id": 100129,
+      "original_category_name": "Braces \u0026 Supports",
+      "display_category_name": "Braces \u0026 Supports",
+      "has_children": false
+    },
+    {
+      "category_id": 102084,
+      "parent_category_id": 100129,
+      "original_category_name": "Wheelchairs",
+      "display_category_name": "Wheelchairs",
+      "has_children": false
+    },
+    {
+      "category_id": 102083,
+      "parent_category_id": 100129,
+      "original_category_name": "Walking Aids",
+      "display_category_name": "Walking Aids",
+      "has_children": false
+    },
+    {
+      "category_id": 100124,
+      "parent_category_id": 100018,
+      "original_category_name": "First Aid Supplies",
+      "display_category_name": "First Aid Supplies",
+      "has_children": true
+    },
+    {
+      "category_id": 102079,
+      "parent_category_id": 100124,
+      "original_category_name": "Others",
+      "display_category_name": "Others",
+      "has_children": false
+    },
+    {
+      "category_id": 102078,
+      "parent_category_id": 100124,
+      "original_category_name": "Medical Antiseptics \u0026 Disinfectants",
+      "display_category_name": "Medical Antiseptics \u0026 Disinfectants",
+      "has_children": false
+    },
+    {
+      "category_id": 102077,
+      "parent_category_id": 100124,
+      "original_category_name": "Ointments \u0026 Creams",
+      "display_category_name": "Ointments \u0026 Creams",
+      "has_children": false
+    },
+    {
+      "category_id": 102076,
+      "parent_category_id": 100124,
+      "original_category_name": "First Aid Accessories",
+      "display_category_name": "First Aid Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 102075,
+      "parent_category_id": 100124,
+      "original_category_name": "Plasters \u0026 Bandages",
+      "display_category_name": "Plasters \u0026 Bandages",
+      "has_children": false
+    },
+    {
+      "category_id": 100121,
+      "parent_category_id": 100018,
+      "original_category_name": "Health Monitors \u0026 Tests",
+      "display_category_name": "Health Monitors \u0026 Tests",
+      "has_children": true
+    },
+    {
+      "category_id": 102071,
+      "parent_category_id": 100121,
+      "original_category_name": "Others",
+      "display_category_name": "Others",
+      "has_children": false
+    },
+    {
+      "category_id": 102070,
+      "parent_category_id": 100121,
+      "original_category_name": "Thermometers",
+      "display_category_name": "Thermometers",
+      "has_children": false
+    },
+    {
+      "category_id": 102069,
+      "parent_category_id": 100121,
+      "original_category_name": "Pulse Oximeters",
+      "display_category_name": "Pulse Oximeters",
+      "has_children": false
+    },
+    {
+      "category_id": 102068,
+      "parent_category_id": 100121,
+      "original_category_name": "Blood Glucose Monitors",
+      "display_category_name": "Blood Glucose Monitors",
+      "has_children": false
+    },
+    {
+      "category_id": 102067,
+      "parent_category_id": 100121,
+      "original_category_name": "Blood Pressure Monitors",
+      "display_category_name": "Blood Pressure Monitors",
+      "has_children": false
+    },
+    {
+      "category_id": 100002,
+      "parent_category_id": 100001,
+      "original_category_name": "Food Supplement",
+      "display_category_name": "Food Supplement",
+      "has_children": true
+    },
+    {
+      "category_id": 102063,
+      "parent_category_id": 100002,
+      "original_category_name": "Others",
+      "display_category_name": "Others",
+      "has_children": false
+    },
+    {
+      "category_id": 102062,
+      "parent_category_id": 100002,
+      "original_category_name": "Well Being",
+      "display_category_name": "Well Being",
+      "has_children": false
+    },
+    {
+      "category_id": 102061,
+      "parent_category_id": 100002,
+      "original_category_name": "Fitness",
+      "display_category_name": "Fitness",
+      "has_children": false
+    },
+    {
+      "category_id": 102059,
+      "parent_category_id": 100002,
+      "original_category_name": "Beauty Supplements",
+      "display_category_name": "Beauty Supplements",
+      "has_children": false
+    },
+    {
+      "category_id": 102057,
+      "parent_category_id": 100002,
+      "original_category_name": "Weight Management",
+      "display_category_name": "Weight Management",
+      "has_children": false
+    },
+    {
+      "category_id": 100009,
+      "parent_category_id": 0,
+      "original_category_name": "Fashion Accessories",
+      "display_category_name": "Fashion Accessories",
+      "has_children": true
+    },
+    {
+      "category_id": 100034,
+      "parent_category_id": 100009,
+      "original_category_name": "Additional Accessories",
+      "display_category_name": "Additional Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100031,
+      "parent_category_id": 100009,
+      "original_category_name": "Investment Precious Metals",
+      "display_category_name": "Investment Precious Metals",
+      "has_children": false
+    },
+    {
+      "category_id": 100030,
+      "parent_category_id": 100009,
+      "original_category_name": "Eyewear",
+      "display_category_name": "Eyewear",
+      "has_children": false
+    },
+    {
+      "category_id": 100025,
+      "parent_category_id": 100009,
+      "original_category_name": "Hair Accessories",
+      "display_category_name": "Hair Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100010,
+      "parent_category_id": 0,
+      "original_category_name": "Home Appliances",
+      "display_category_name": "Home Appliances",
+      "has_children": true
+    },
+    {
+      "category_id": 100042,
+      "parent_category_id": 100010,
+      "original_category_name": "Electrical Circuitry \u0026 Parts",
+      "display_category_name": "Electrical Circuitry \u0026 Parts",
+      "has_children": false
+    },
+    {
+      "category_id": 100041,
+      "parent_category_id": 100010,
+      "original_category_name": "Kitchen Appliances",
+      "display_category_name": "Kitchen Appliances",
+      "has_children": true
+    },
+    {
+      "category_id": 100208,
+      "parent_category_id": 100041,
+      "original_category_name": "Specialty Cookware",
+      "display_category_name": "Specialty Cookware",
+      "has_children": false
+    },
+    {
+      "category_id": 100040,
+      "parent_category_id": 100010,
+      "original_category_name": "TVs \u0026 Accessories",
+      "display_category_name": "TVs \u0026 Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100039,
+      "parent_category_id": 100010,
+      "original_category_name": "Large Household Appliances",
+      "display_category_name": "Large Household Appliances",
+      "has_children": true
+    },
+    {
+      "category_id": 100181,
+      "parent_category_id": 100039,
+      "original_category_name": "Cooling",
+      "display_category_name": "Cooling",
+      "has_children": false
+    },
+    {
+      "category_id": 100179,
+      "parent_category_id": 100039,
+      "original_category_name": "Washing Machines \u0026 Dryers",
+      "display_category_name": "Washing Machines \u0026 Dryers",
+      "has_children": false
+    },
+    {
+      "category_id": 100038,
+      "parent_category_id": 100010,
+      "original_category_name": "Small Household Appliances",
+      "display_category_name": "Small Household Appliances",
+      "has_children": true
+    },
+    {
+      "category_id": 100176,
+      "parent_category_id": 100038,
+      "original_category_name": "Air Treatment",
+      "display_category_name": "Air Treatment",
+      "has_children": false
+    },
+    {
+      "category_id": 100174,
+      "parent_category_id": 100038,
+      "original_category_name": "Telephones",
+      "display_category_name": "Telephones",
+      "has_children": false
+    },
+    {
+      "category_id": 100037,
+      "parent_category_id": 100010,
+      "original_category_name": "Projectors \u0026 Accessories",
+      "display_category_name": "Projectors \u0026 Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100011,
+      "parent_category_id": 0,
+      "original_category_name": "Men Clothes",
+      "display_category_name": "Men Clothes",
+      "has_children": true
+    },
+    {
+      "category_id": 100058,
+      "parent_category_id": 100011,
+      "original_category_name": "Traditional Wear",
+      "display_category_name": "Traditional Wear",
+      "has_children": false
+    },
+    {
+      "category_id": 100055,
+      "parent_category_id": 100011,
+      "original_category_name": "Innerwear \u0026 Underwear",
+      "display_category_name": "Innerwear \u0026 Underwear",
+      "has_children": false
+    },
+    {
+      "category_id": 100054,
+      "parent_category_id": 100011,
+      "original_category_name": "Tops",
+      "display_category_name": "Tops",
+      "has_children": false
+    },
+    {
+      "category_id": 100052,
+      "parent_category_id": 100011,
+      "original_category_name": "Pants",
+      "display_category_name": "Pants",
+      "has_children": false
+    },
+    {
+      "category_id": 100051,
+      "parent_category_id": 100011,
+      "original_category_name": "Suits",
+      "display_category_name": "Suits",
+      "has_children": false
+    },
+    {
+      "category_id": 100050,
+      "parent_category_id": 100011,
+      "original_category_name": "Jackets, Coats \u0026 Vests",
+      "display_category_name": "Jackets, Coats \u0026 Vests",
+      "has_children": false
+    },
+    {
+      "category_id": 100048,
+      "parent_category_id": 100011,
+      "original_category_name": "Hoodies \u0026 Sweatshirts",
+      "display_category_name": "Hoodies \u0026 Sweatshirts",
+      "has_children": false
+    },
+    {
+      "category_id": 100012,
+      "parent_category_id": 0,
+      "original_category_name": "Men Shoes",
+      "display_category_name": "Men Shoes",
+      "has_children": true
+    },
+    {
+      "category_id": 100069,
+      "parent_category_id": 100012,
+      "original_category_name": "Shoe Care \u0026 Accessories",
+      "display_category_name": "Shoe Care \u0026 Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100068,
+      "parent_category_id": 100012,
+      "original_category_name": "Sandals \u0026 Flip Flops",
+      "display_category_name": "Sandals \u0026 Flip Flops",
+      "has_children": false
+    },
+    {
+      "category_id": 100063,
+      "parent_category_id": 100012,
+      "original_category_name": "Boots",
+      "display_category_name": "Boots",
+      "has_children": false
+    },
+    {
+      "category_id": 100013,
+      "parent_category_id": 0,
+      "original_category_name": "Mobile \u0026 Gadgets",
+      "display_category_name": "Mobile \u0026 Gadgets",
+      "has_children": true
+    },
+    {
+      "category_id": 100075,
+      "parent_category_id": 100013,
+      "original_category_name": "Accessories",
+      "display_category_name": "Accessories",
+      "has_children": true
+    },
+    {
+      "category_id": 100290,
+      "parent_category_id": 100075,
+      "original_category_name": "Cases, Covers, \u0026 Skins",
+      "display_category_name": "Cases, Covers, \u0026 Skins",
+      "has_children": false
+    },
+    {
+      "category_id": 100287,
+      "parent_category_id": 100075,
+      "original_category_name": "Powerbanks \u0026 Batteries",
+      "display_category_name": "Powerbanks \u0026 Batteries",
+      "has_children": false
+    },
+    {
+      "category_id": 100284,
+      "parent_category_id": 100075,
+      "original_category_name": "Cables, Chargers \u0026 Converters",
+      "display_category_name": "Cables, Chargers \u0026 Converters",
+      "has_children": false
+    },
+    {
+      "category_id": 100274,
+      "parent_category_id": 100075,
+      "original_category_name": "Selfie Accessories",
+      "display_category_name": "Selfie Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100074,
+      "parent_category_id": 100013,
+      "original_category_name": "Wearable Devices",
+      "display_category_name": "Wearable Devices",
+      "has_children": false
+    },
+    {
+      "category_id": 100015,
+      "parent_category_id": 0,
+      "original_category_name": "Travel \u0026 Luggage",
+      "display_category_name": "Travel \u0026 Luggage",
+      "has_children": true
+    },
+    {
+      "category_id": 100087,
+      "parent_category_id": 100015,
+      "original_category_name": "Travel Accessories",
+      "display_category_name": "Travel Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100086,
+      "parent_category_id": 100015,
+      "original_category_name": "Travel Bags",
+      "display_category_name": "Travel Bags",
+      "has_children": false
+    },
+    {
+      "category_id": 100016,
+      "parent_category_id": 0,
+      "original_category_name": "Women Bags",
+      "display_category_name": "Women Bags",
+      "has_children": true
+    },
+    {
+      "category_id": 100097,
+      "parent_category_id": 100016,
+      "original_category_name": "Bag Accessories",
+      "display_category_name": "Bag Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100096,
+      "parent_category_id": 100016,
+      "original_category_name": "Wallets",
+      "display_category_name": "Wallets",
+      "has_children": false
+    },
+    {
+      "category_id": 100090,
+      "parent_category_id": 100016,
+      "original_category_name": "Laptop Bags",
+      "display_category_name": "Laptop Bags",
+      "has_children": false
+    },
+    {
+      "category_id": 100017,
+      "parent_category_id": 0,
+      "original_category_name": "Women Clothes",
+      "display_category_name": "Women Clothes",
+      "has_children": true
+    },
+    {
+      "category_id": 100118,
+      "parent_category_id": 100017,
+      "original_category_name": "Socks \u0026 Stockings",
+      "display_category_name": "Socks \u0026 Stockings",
+      "has_children": false
+    },
+    {
+      "category_id": 100117,
+      "parent_category_id": 100017,
+      "original_category_name": "Fabric",
+      "display_category_name": "Fabric",
+      "has_children": false
+    },
+    {
+      "category_id": 100114,
+      "parent_category_id": 100017,
+      "original_category_name": "Traditional Wear",
+      "display_category_name": "Traditional Wear",
+      "has_children": false
+    },
+    {
+      "category_id": 100113,
+      "parent_category_id": 100017,
+      "original_category_name": "Maternity Wear",
+      "display_category_name": "Maternity Wear",
+      "has_children": false
+    },
+    {
+      "category_id": 100112,
+      "parent_category_id": 100017,
+      "original_category_name": "Sleepwear \u0026 Pajamas",
+      "display_category_name": "Sleepwear \u0026 Pajamas",
+      "has_children": false
+    },
+    {
+      "category_id": 100111,
+      "parent_category_id": 100017,
+      "original_category_name": "Lingerie \u0026 Underwear",
+      "display_category_name": "Lingerie \u0026 Underwear",
+      "has_children": true
+    },
+    {
+      "category_id": 100384,
+      "parent_category_id": 100111,
+      "original_category_name": "Bra Accessories",
+      "display_category_name": "Bra Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100110,
+      "parent_category_id": 100017,
+      "original_category_name": "Sets",
+      "display_category_name": "Sets",
+      "has_children": false
+    },
+    {
+      "category_id": 100109,
+      "parent_category_id": 100017,
+      "original_category_name": "Hoodies \u0026 Sweatshirts",
+      "display_category_name": "Hoodies \u0026 Sweatshirts",
+      "has_children": false
+    },
+    {
+      "category_id": 100107,
+      "parent_category_id": 100017,
+      "original_category_name": "Jackets, Coats \u0026 Vests",
+      "display_category_name": "Jackets, Coats \u0026 Vests",
+      "has_children": false
+    },
+    {
+      "category_id": 100106,
+      "parent_category_id": 100017,
+      "original_category_name": "Jumpsuits, Playsuits \u0026 Overalls",
+      "display_category_name": "Jumpsuits, Playsuits \u0026 Overalls",
+      "has_children": false
+    },
+    {
+      "category_id": 100101,
+      "parent_category_id": 100017,
+      "original_category_name": "Shorts",
+      "display_category_name": "Shorts",
+      "has_children": false
+    },
+    {
+      "category_id": 100100,
+      "parent_category_id": 100017,
+      "original_category_name": "Pants \u0026 Leggings",
+      "display_category_name": "Pants \u0026 Leggings",
+      "has_children": false
+    },
+    {
+      "category_id": 100099,
+      "parent_category_id": 100017,
+      "original_category_name": "Tops",
+      "display_category_name": "Tops",
+      "has_children": false
+    },
+    {
+      "category_id": 100532,
+      "parent_category_id": 0,
+      "original_category_name": "Women Shoes",
+      "display_category_name": "Women Shoes",
+      "has_children": true
+    },
+    {
+      "category_id": 100562,
+      "parent_category_id": 100532,
+      "original_category_name": "Shoe Care \u0026 Accessories",
+      "display_category_name": "Shoe Care \u0026 Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100561,
+      "parent_category_id": 100532,
+      "original_category_name": "Flat Sandals \u0026 Flip Flops",
+      "display_category_name": "Flat Sandals \u0026 Flip Flops",
+      "has_children": false
+    },
+    {
+      "category_id": 100558,
+      "parent_category_id": 100532,
+      "original_category_name": "Flats",
+      "display_category_name": "Flats",
+      "has_children": false
+    },
+    {
+      "category_id": 100556,
+      "parent_category_id": 100532,
+      "original_category_name": "Boots",
+      "display_category_name": "Boots",
+      "has_children": false
+    },
+    {
+      "category_id": 100533,
+      "parent_category_id": 0,
+      "original_category_name": "Men Bags",
+      "display_category_name": "Men Bags",
+      "has_children": true
+    },
+    {
+      "category_id": 100571,
+      "parent_category_id": 100533,
+      "original_category_name": "Wallets",
+      "display_category_name": "Wallets",
+      "has_children": false
+    },
+    {
+      "category_id": 100565,
+      "parent_category_id": 100533,
+      "original_category_name": "Laptop Bags",
+      "display_category_name": "Laptop Bags",
+      "has_children": false
+    },
+    {
+      "category_id": 100534,
+      "parent_category_id": 0,
+      "original_category_name": "Watches",
+      "display_category_name": "Watches",
+      "has_children": true
+    },
+    {
+      "category_id": 100576,
+      "parent_category_id": 100534,
+      "original_category_name": "Watches Accessories",
+      "display_category_name": "Watches Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100535,
+      "parent_category_id": 0,
+      "original_category_name": "Audio",
+      "display_category_name": "Audio",
+      "has_children": true
+    },
+    {
+      "category_id": 100582,
+      "parent_category_id": 100535,
+      "original_category_name": "Home Audio \u0026 Speakers",
+      "display_category_name": "Home Audio \u0026 Speakers",
+      "has_children": false
+    },
+    {
+      "category_id": 100579,
+      "parent_category_id": 100535,
+      "original_category_name": "Media Players",
+      "display_category_name": "Media Players",
+      "has_children": false
+    },
+    {
+      "category_id": 100629,
+      "parent_category_id": 0,
+      "original_category_name": "Food \u0026 Beverages",
+      "display_category_name": "Food \u0026 Beverage",
+      "has_children": true
+    },
+    {
+      "category_id": 100654,
+      "parent_category_id": 100629,
+      "original_category_name": "Bakery",
+      "display_category_name": "Bakery",
+      "has_children": false
+    },
+    {
+      "category_id": 100653,
+      "parent_category_id": 100629,
+      "original_category_name": "Fresh \u0026 Frozen Food",
+      "display_category_name": "Fresh \u0026 Frozen Food",
+      "has_children": true
+    },
+    {
+      "category_id": 100848,
+      "parent_category_id": 100653,
+      "original_category_name": "Seafood",
+      "display_category_name": "Seafood",
+      "has_children": false
+    },
+    {
+      "category_id": 100847,
+      "parent_category_id": 100653,
+      "original_category_name": "Meat",
+      "display_category_name": "Meat",
+      "has_children": false
+    },
+    {
+      "category_id": 100652,
+      "parent_category_id": 100629,
+      "original_category_name": "Dairy \u0026 Eggs",
+      "display_category_name": "Dairy \u0026 Eggs",
+      "has_children": true
+    },
+    {
+      "category_id": 100838,
+      "parent_category_id": 100652,
+      "original_category_name": "Milk",
+      "display_category_name": "Milk",
+      "has_children": false
+    },
+    {
+      "category_id": 100651,
+      "parent_category_id": 100629,
+      "original_category_name": "Beverages",
+      "display_category_name": "Beverages",
+      "has_children": false
+    },
+    {
+      "category_id": 100650,
+      "parent_category_id": 100629,
+      "original_category_name": "Breakfast Cereals \u0026 Spread",
+      "display_category_name": "Breakfast Cereals \u0026 Spread",
+      "has_children": false
+    },
+    {
+      "category_id": 100649,
+      "parent_category_id": 100629,
+      "original_category_name": "Baking Needs",
+      "display_category_name": "Baking Needs",
+      "has_children": false
+    },
+    {
+      "category_id": 100648,
+      "parent_category_id": 100629,
+      "original_category_name": "Cooking Essentials",
+      "display_category_name": "Cooking Essentials",
+      "has_children": true
+    },
+    {
+      "category_id": 100804,
+      "parent_category_id": 100648,
+      "original_category_name": "Seasonings \u0026 Condiments",
+      "display_category_name": "Seasonings \u0026 Condiments",
+      "has_children": false
+    },
+    {
+      "category_id": 100647,
+      "parent_category_id": 100629,
+      "original_category_name": "Food Staples",
+      "display_category_name": "Food Staples",
+      "has_children": true
+    },
+    {
+      "category_id": 100801,
+      "parent_category_id": 100647,
+      "original_category_name": "Canned Food",
+      "display_category_name": "Canned Food",
+      "has_children": false
+    },
+    {
+      "category_id": 100796,
+      "parent_category_id": 100647,
+      "original_category_name": "Dried Goods",
+      "display_category_name": "Dried Goods",
+      "has_children": false
+    },
+    {
+      "category_id": 100646,
+      "parent_category_id": 100629,
+      "original_category_name": "Snacks",
+      "display_category_name": "Snacks",
+      "has_children": true
+    },
+    {
+      "category_id": 100795,
+      "parent_category_id": 100646,
+      "original_category_name": "Dried Snacks",
+      "display_category_name": "Dried Snacks",
+      "has_children": false
+    },
+    {
+      "category_id": 100645,
+      "parent_category_id": 100629,
+      "original_category_name": "Convenience / Ready-to-eat",
+      "display_category_name": "Convenience / Ready-to-eat",
+      "has_children": false
+    },
+    {
+      "category_id": 100630,
+      "parent_category_id": 0,
+      "original_category_name": "Beauty",
+      "display_category_name": "Beauty",
+      "has_children": true
+    },
+    {
+      "category_id": 102002,
+      "parent_category_id": 100630,
+      "original_category_name": "Bath \u0026 Body Care",
+      "display_category_name": "Bath \u0026 Body Care",
+      "has_children": true
+    },
+    {
+      "category_id": 102011,
+      "parent_category_id": 102002,
+      "original_category_name": "Sun Care",
+      "display_category_name": "Sun Care",
+      "has_children": false
+    },
+    {
+      "category_id": 100664,
+      "parent_category_id": 100630,
+      "original_category_name": "Skincare",
+      "display_category_name": "Skincare",
+      "has_children": true
+    },
+    {
+      "category_id": 100900,
+      "parent_category_id": 100664,
+      "original_category_name": "Lip Treatment",
+      "display_category_name": "Lip Treatment",
+      "has_children": false
+    },
+    {
+      "category_id": 100899,
+      "parent_category_id": 100664,
+      "original_category_name": "Eye Treatment",
+      "display_category_name": "Eye Treatment",
+      "has_children": false
+    },
+    {
+      "category_id": 100663,
+      "parent_category_id": 100630,
+      "original_category_name": "Beauty Tools",
+      "display_category_name": "Beauty Tools",
+      "has_children": true
+    },
+    {
+      "category_id": 100889,
+      "parent_category_id": 100663,
+      "original_category_name": "Hair Tools",
+      "display_category_name": "Hair Tools",
+      "has_children": false
+    },
+    {
+      "category_id": 100886,
+      "parent_category_id": 100663,
+      "original_category_name": "Facial Care Tools",
+      "display_category_name": "Facial Care Tools",
+      "has_children": false
+    },
+    {
+      "category_id": 100885,
+      "parent_category_id": 100663,
+      "original_category_name": "Makeup Accessories",
+      "display_category_name": "Makeup Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100662,
+      "parent_category_id": 100630,
+      "original_category_name": "Makeup",
+      "display_category_name": "Makeup",
+      "has_children": true
+    },
+    {
+      "category_id": 100883,
+      "parent_category_id": 100662,
+      "original_category_name": "Lips",
+      "display_category_name": "Lips",
+      "has_children": false
+    },
+    {
+      "category_id": 100882,
+      "parent_category_id": 100662,
+      "original_category_name": "Eyes",
+      "display_category_name": "Eyes",
+      "has_children": false
+    },
+    {
+      "category_id": 100881,
+      "parent_category_id": 100662,
+      "original_category_name": "Face",
+      "display_category_name": "Face",
+      "has_children": false
+    },
+    {
+      "category_id": 100660,
+      "parent_category_id": 100630,
+      "original_category_name": "Men's Care",
+      "display_category_name": "Men's Care",
+      "has_children": true
+    },
+    {
+      "category_id": 100877,
+      "parent_category_id": 100660,
+      "original_category_name": "Shaving \u0026 Grooming",
+      "display_category_name": "Shaving \u0026 Grooming",
+      "has_children": false
+    },
+    {
+      "category_id": 100876,
+      "parent_category_id": 100660,
+      "original_category_name": "Skincare",
+      "display_category_name": "Skincare",
+      "has_children": false
+    },
+    {
+      "category_id": 100659,
+      "parent_category_id": 100630,
+      "original_category_name": "Hair Care",
+      "display_category_name": "Hair Care",
+      "has_children": false
+    },
+    {
+      "category_id": 100658,
+      "parent_category_id": 100630,
+      "original_category_name": "Hand, Foot \u0026 Nail Care",
+      "display_category_name": "Hand, Foot \u0026 Nail Care",
+      "has_children": true
+    },
+    {
+      "category_id": 100867,
+      "parent_category_id": 100658,
+      "original_category_name": "Nail Care",
+      "display_category_name": "Nail Care",
+      "has_children": false
+    },
+    {
+      "category_id": 100866,
+      "parent_category_id": 100658,
+      "original_category_name": "Foot Care",
+      "display_category_name": "Foot Care",
+      "has_children": false
+    },
+    {
+      "category_id": 100865,
+      "parent_category_id": 100658,
+      "original_category_name": "Hand Care",
+      "display_category_name": "Hand Care",
+      "has_children": false
+    },
+    {
+      "category_id": 100631,
+      "parent_category_id": 0,
+      "original_category_name": "Pets",
+      "display_category_name": "Pets",
+      "has_children": true
+    },
+    {
+      "category_id": 100672,
+      "parent_category_id": 100631,
+      "original_category_name": "Pet Healthcare",
+      "display_category_name": "Pet Healthcare",
+      "has_children": false
+    },
+    {
+      "category_id": 100671,
+      "parent_category_id": 100631,
+      "original_category_name": "Pet Clothing \u0026 Accessories",
+      "display_category_name": "Pet Clothing \u0026 Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100670,
+      "parent_category_id": 100631,
+      "original_category_name": "Pet Grooming",
+      "display_category_name": "Pet Grooming",
+      "has_children": false
+    },
+    {
+      "category_id": 100669,
+      "parent_category_id": 100631,
+      "original_category_name": "Litter \u0026 Toilet",
+      "display_category_name": "Litter \u0026 Toilet",
+      "has_children": false
+    },
+    {
+      "category_id": 100668,
+      "parent_category_id": 100631,
+      "original_category_name": "Pet Accessories",
+      "display_category_name": "Pet Accessories",
+      "has_children": true
+    },
+    {
+      "category_id": 100920,
+      "parent_category_id": 100668,
+      "original_category_name": "Pet Furniture",
+      "display_category_name": "Pet Furniture",
+      "has_children": false
+    },
+    {
+      "category_id": 100919,
+      "parent_category_id": 100668,
+      "original_category_name": "Toys",
+      "display_category_name": "Toys",
+      "has_children": true
+    },
+    {
+      "category_id": 101677,
+      "parent_category_id": 100919,
+      "original_category_name": "Dog \u0026 Cat Toys",
+      "display_category_name": "Dog \u0026 Cat Toys",
+      "has_children": false
+    },
+    {
+      "category_id": 100667,
+      "parent_category_id": 100631,
+      "original_category_name": "Pet Food",
+      "display_category_name": "Pet Food",
+      "has_children": false
+    },
+    {
+      "category_id": 100632,
+      "parent_category_id": 0,
+      "original_category_name": "Mom \u0026 Baby",
+      "display_category_name": "Mom \u0026 Baby",
+      "has_children": true
+    },
+    {
+      "category_id": 100684,
+      "parent_category_id": 100632,
+      "original_category_name": "Toys",
+      "display_category_name": "Toys",
+      "has_children": true
+    },
+    {
+      "category_id": 101012,
+      "parent_category_id": 100684,
+      "original_category_name": "Educational Toys",
+      "display_category_name": "Educational Toys",
+      "has_children": false
+    },
+    {
+      "category_id": 101011,
+      "parent_category_id": 100684,
+      "original_category_name": "Sports \u0026 Outdoor Play",
+      "display_category_name": "Sports \u0026 Outdoor Play",
+      "has_children": false
+    },
+    {
+      "category_id": 101008,
+      "parent_category_id": 100684,
+      "original_category_name": "Dolls \u0026 Stuffed Toys",
+      "display_category_name": "Dolls \u0026 Stuffed Toys",
+      "has_children": false
+    },
+    {
+      "category_id": 101006,
+      "parent_category_id": 100684,
+      "original_category_name": "Baby \u0026 Toddler Toys",
+      "display_category_name": "Baby \u0026 Toddler Toys",
+      "has_children": false
+    },
+    {
+      "category_id": 100683,
+      "parent_category_id": 100632,
+      "original_category_name": "Diapering \u0026 Potty",
+      "display_category_name": "Diapering \u0026 Potty",
+      "has_children": false
+    },
+    {
+      "category_id": 100682,
+      "parent_category_id": 100632,
+      "original_category_name": "Baby Healthcare",
+      "display_category_name": "Baby Healthcare",
+      "has_children": true
+    },
+    {
+      "category_id": 100997,
+      "parent_category_id": 100682,
+      "original_category_name": "Baby Skincare",
+      "display_category_name": "Baby Skincare",
+      "has_children": false
+    },
+    {
+      "category_id": 100681,
+      "parent_category_id": 100632,
+      "original_category_name": "Milk Formula \u0026 Baby Food",
+      "display_category_name": "Milk Formula \u0026 Baby Food",
+      "has_children": false
+    },
+    {
+      "category_id": 100680,
+      "parent_category_id": 100632,
+      "original_category_name": "Baby Safety",
+      "display_category_name": "Baby Safety",
+      "has_children": false
+    },
+    {
+      "category_id": 100679,
+      "parent_category_id": 100632,
+      "original_category_name": "Nursery",
+      "display_category_name": "Nursery",
+      "has_children": true
+    },
+    {
+      "category_id": 100981,
+      "parent_category_id": 100679,
+      "original_category_name": "Mattresses \u0026 Bedding",
+      "display_category_name": "Mattresses \u0026 Bedding",
+      "has_children": false
+    },
+    {
+      "category_id": 100678,
+      "parent_category_id": 100632,
+      "original_category_name": "Bath \u0026 Body Care",
+      "display_category_name": "Bath \u0026 Body Care",
+      "has_children": false
+    },
+    {
+      "category_id": 100677,
+      "parent_category_id": 100632,
+      "original_category_name": "Maternity Healthcare",
+      "display_category_name": "Maternity Healthcare",
+      "has_children": false
+    },
+    {
+      "category_id": 100676,
+      "parent_category_id": 100632,
+      "original_category_name": "Maternity Accessories",
+      "display_category_name": "Maternity Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100675,
+      "parent_category_id": 100632,
+      "original_category_name": "Feeding Essentials",
+      "display_category_name": "Feeding Essentials",
+      "has_children": true
+    },
+    {
+      "category_id": 100956,
+      "parent_category_id": 100675,
+      "original_category_name": "Utensils",
+      "display_category_name": "Utensils",
+      "has_children": false
+    },
+    {
+      "category_id": 100954,
+      "parent_category_id": 100675,
+      "original_category_name": "Breastfeeding",
+      "display_category_name": "Breastfeeding",
+      "has_children": false
+    },
+    {
+      "category_id": 100953,
+      "parent_category_id": 100675,
+      "original_category_name": "Bottle-feeding",
+      "display_category_name": "Bottle-feeding",
+      "has_children": false
+    },
+    {
+      "category_id": 100674,
+      "parent_category_id": 100632,
+      "original_category_name": "Baby Travel Essentials",
+      "display_category_name": "Baby Travel Essentials",
+      "has_children": false
+    },
+    {
+      "category_id": 100633,
+      "parent_category_id": 0,
+      "original_category_name": "Baby \u0026 Kids Fashion",
+      "display_category_name": "Baby \u0026 Kids Fashion",
+      "has_children": true
+    },
+    {
+      "category_id": 100693,
+      "parent_category_id": 100633,
+      "original_category_name": "Girl Shoes",
+      "display_category_name": "Girl Shoes",
+      "has_children": false
+    },
+    {
+      "category_id": 100692,
+      "parent_category_id": 100633,
+      "original_category_name": "Boy Shoes",
+      "display_category_name": "Boy Shoes",
+      "has_children": false
+    },
+    {
+      "category_id": 100691,
+      "parent_category_id": 100633,
+      "original_category_name": "Girl Clothes",
+      "display_category_name": "Girl Clothes",
+      "has_children": true
+    },
+    {
+      "category_id": 101054,
+      "parent_category_id": 100691,
+      "original_category_name": "Bottoms",
+      "display_category_name": "Bottoms",
+      "has_children": false
+    },
+    {
+      "category_id": 101053,
+      "parent_category_id": 100691,
+      "original_category_name": "Outerwear",
+      "display_category_name": "Outerwear",
+      "has_children": false
+    },
+    {
+      "category_id": 101052,
+      "parent_category_id": 100691,
+      "original_category_name": "Tops",
+      "display_category_name": "Tops",
+      "has_children": false
+    },
+    {
+      "category_id": 100690,
+      "parent_category_id": 100633,
+      "original_category_name": "Boy Clothes",
+      "display_category_name": "Boy Clothes",
+      "has_children": true
+    },
+    {
+      "category_id": 101045,
+      "parent_category_id": 100690,
+      "original_category_name": "Bottoms",
+      "display_category_name": "Bottoms",
+      "has_children": false
+    },
+    {
+      "category_id": 101044,
+      "parent_category_id": 100690,
+      "original_category_name": "Outerwear",
+      "display_category_name": "Outerwear",
+      "has_children": false
+    },
+    {
+      "category_id": 101043,
+      "parent_category_id": 100690,
+      "original_category_name": "Tops",
+      "display_category_name": "Tops",
+      "has_children": false
+    },
+    {
+      "category_id": 100689,
+      "parent_category_id": 100633,
+      "original_category_name": "Baby \u0026 Kids Accessories",
+      "display_category_name": "Baby \u0026 Kids Accessories",
+      "has_children": true
+    },
+    {
+      "category_id": 101036,
+      "parent_category_id": 100689,
+      "original_category_name": "Rain Gear",
+      "display_category_name": "Rain Gear",
+      "has_children": false
+    },
+    {
+      "category_id": 101035,
+      "parent_category_id": 100689,
+      "original_category_name": "Jewelry",
+      "display_category_name": "Jewelry",
+      "has_children": false
+    },
+    {
+      "category_id": 101026,
+      "parent_category_id": 100689,
+      "original_category_name": "Bags \u0026 Luggage",
+      "display_category_name": "Bags \u0026 Luggage",
+      "has_children": false
+    },
+    {
+      "category_id": 100687,
+      "parent_category_id": 100633,
+      "original_category_name": "Baby Clothes",
+      "display_category_name": "Baby Clothes",
+      "has_children": true
+    },
+    {
+      "category_id": 101019,
+      "parent_category_id": 100687,
+      "original_category_name": "Bottoms",
+      "display_category_name": "Bottoms",
+      "has_children": false
+    },
+    {
+      "category_id": 100634,
+      "parent_category_id": 0,
+      "original_category_name": "Gaming \u0026 Consoles",
+      "display_category_name": "Gaming \u0026 Consoles",
+      "has_children": true
+    },
+    {
+      "category_id": 100697,
+      "parent_category_id": 100634,
+      "original_category_name": "Video Games",
+      "display_category_name": "Video Games",
+      "has_children": false
+    },
+    {
+      "category_id": 100695,
+      "parent_category_id": 100634,
+      "original_category_name": "Console Machines",
+      "display_category_name": "Console Machines",
+      "has_children": false
+    },
+    {
+      "category_id": 100635,
+      "parent_category_id": 0,
+      "original_category_name": "Cameras \u0026 Drones",
+      "display_category_name": "Cameras \u0026 Drones",
+      "has_children": true
+    },
+    {
+      "category_id": 100704,
+      "parent_category_id": 100635,
+      "original_category_name": "Camera Care",
+      "display_category_name": "Camera Care",
+      "has_children": false
+    },
+    {
+      "category_id": 100703,
+      "parent_category_id": 100635,
+      "original_category_name": "Camera Accessories",
+      "display_category_name": "Camera Accessories",
+      "has_children": true
+    },
+    {
+      "category_id": 101111,
+      "parent_category_id": 100703,
+      "original_category_name": "Flash Accessories",
+      "display_category_name": "Flash Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100702,
+      "parent_category_id": 100635,
+      "original_category_name": "Lens Accessories",
+      "display_category_name": "Lens Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100700,
+      "parent_category_id": 100635,
+      "original_category_name": "Security Cameras \u0026 Systems",
+      "display_category_name": "Security Cameras \u0026 Systems",
+      "has_children": false
+    },
+    {
+      "category_id": 100699,
+      "parent_category_id": 100635,
+      "original_category_name": "Cameras",
+      "display_category_name": "Cameras",
+      "has_children": false
+    },
+    {
+      "category_id": 100636,
+      "parent_category_id": 0,
+      "original_category_name": "Home \u0026 Living",
+      "display_category_name": "Home \u0026 Living",
+      "has_children": true
+    },
+    {
+      "category_id": 100722,
+      "parent_category_id": 100636,
+      "original_category_name": "Party Supplies",
+      "display_category_name": "Party Supplies",
+      "has_children": false
+    },
+    {
+      "category_id": 100721,
+      "parent_category_id": 100636,
+      "original_category_name": "Home Organizers",
+      "display_category_name": "Home Organizers",
+      "has_children": false
+    },
+    {
+      "category_id": 100720,
+      "parent_category_id": 100636,
+      "original_category_name": "Safety \u0026 Security",
+      "display_category_name": "Safety \u0026 Security",
+      "has_children": false
+    },
+    {
+      "category_id": 100718,
+      "parent_category_id": 100636,
+      "original_category_name": "Dinnerware",
+      "display_category_name": "Dinnerware",
+      "has_children": false
+    },
+    {
+      "category_id": 100717,
+      "parent_category_id": 100636,
+      "original_category_name": "Kitchenware",
+      "display_category_name": "Kitchenware",
+      "has_children": false
+    },
+    {
+      "category_id": 100716,
+      "parent_category_id": 100636,
+      "original_category_name": "Home Care Supplies",
+      "display_category_name": "Home Care Supplies",
+      "has_children": true
+    },
+    {
+      "category_id": 101214,
+      "parent_category_id": 100716,
+      "original_category_name": "Laundry Care",
+      "display_category_name": "Laundry Care",
+      "has_children": false
+    },
+    {
+      "category_id": 100715,
+      "parent_category_id": 100636,
+      "original_category_name": "Tools \u0026 Home Improvement",
+      "display_category_name": "Tools \u0026 Home Improvement",
+      "has_children": true
+    },
+    {
+      "category_id": 101191,
+      "parent_category_id": 100715,
+      "original_category_name": "Tools",
+      "display_category_name": "Tools",
+      "has_children": false
+    },
+    {
+      "category_id": 100714,
+      "parent_category_id": 100636,
+      "original_category_name": "Gardening",
+      "display_category_name": "Gardening",
+      "has_children": false
+    },
+    {
+      "category_id": 100713,
+      "parent_category_id": 100636,
+      "original_category_name": "Furniture",
+      "display_category_name": "Furniture",
+      "has_children": false
+    },
+    {
+      "category_id": 100711,
+      "parent_category_id": 100636,
+      "original_category_name": "Decoration",
+      "display_category_name": "Decoration",
+      "has_children": false
+    },
+    {
+      "category_id": 100710,
+      "parent_category_id": 100636,
+      "original_category_name": "Bedding",
+      "display_category_name": "Bedding",
+      "has_children": false
+    },
+    {
+      "category_id": 100709,
+      "parent_category_id": 100636,
+      "original_category_name": "Bathrooms",
+      "display_category_name": "Bathrooms",
+      "has_children": true
+    },
+    {
+      "category_id": 101136,
+      "parent_category_id": 100709,
+      "original_category_name": "Towels \u0026 Bathrobes",
+      "display_category_name": "Towels \u0026 Bathrobes",
+      "has_children": false
+    },
+    {
+      "category_id": 100708,
+      "parent_category_id": 100636,
+      "original_category_name": "Home Fragrance \u0026 Aromatherapy",
+      "display_category_name": "Home Fragrance \u0026 Aromatherapy",
+      "has_children": false
+    },
+    {
+      "category_id": 100637,
+      "parent_category_id": 0,
+      "original_category_name": "Sports \u0026 Outdoors",
+      "display_category_name": "Sports \u0026 Outdoors",
+      "has_children": true
+    },
+    {
+      "category_id": 100728,
+      "parent_category_id": 100637,
+      "original_category_name": "Sports \u0026 Outdoor Accessories",
+      "display_category_name": "Sports \u0026 Outdoor Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100727,
+      "parent_category_id": 100637,
+      "original_category_name": "Sports \u0026 Outdoor Apparels",
+      "display_category_name": "Sports \u0026 Outdoor Apparels",
+      "has_children": true
+    },
+    {
+      "category_id": 101314,
+      "parent_category_id": 100727,
+      "original_category_name": "Swimming Attire",
+      "display_category_name": "Swimming Attire",
+      "has_children": false
+    },
+    {
+      "category_id": 100726,
+      "parent_category_id": 100637,
+      "original_category_name": "Sports Footwear",
+      "display_category_name": "Sports Footwear",
+      "has_children": false
+    },
+    {
+      "category_id": 100725,
+      "parent_category_id": 100637,
+      "original_category_name": "Sports \u0026 Outdoor Recreation Equipments",
+      "display_category_name": "Sports \u0026 Outdoor Recreation Equipments",
+      "has_children": true
+    },
+    {
+      "category_id": 101295,
+      "parent_category_id": 100725,
+      "original_category_name": "Fitness Equipment",
+      "display_category_name": "Fitness Equipment",
+      "has_children": false
+    },
+    {
+      "category_id": 101294,
+      "parent_category_id": 100725,
+      "original_category_name": "Yoga \u0026 Pilates",
+      "display_category_name": "Yoga \u0026 Pilates",
+      "has_children": false
+    },
+    {
+      "category_id": 101292,
+      "parent_category_id": 100725,
+      "original_category_name": "Swimming \u0026 Diving",
+      "display_category_name": "Swimming \u0026 Diving",
+      "has_children": false
+    },
+    {
+      "category_id": 101284,
+      "parent_category_id": 100725,
+      "original_category_name": "Golf",
+      "display_category_name": "Golf",
+      "has_children": false
+    },
+    {
+      "category_id": 101283,
+      "parent_category_id": 100725,
+      "original_category_name": "Boxing \u0026 Martial Arts",
+      "display_category_name": "Boxing \u0026 Martial Arts",
+      "has_children": false
+    },
+    {
+      "category_id": 101282,
+      "parent_category_id": 100725,
+      "original_category_name": "Table Tennis",
+      "display_category_name": "Table Tennis",
+      "has_children": false
+    },
+    {
+      "category_id": 101281,
+      "parent_category_id": 100725,
+      "original_category_name": "Tennis",
+      "display_category_name": "Tennis",
+      "has_children": false
+    },
+    {
+      "category_id": 101280,
+      "parent_category_id": 100725,
+      "original_category_name": "Badminton",
+      "display_category_name": "Badminton",
+      "has_children": false
+    },
+    {
+      "category_id": 101279,
+      "parent_category_id": 100725,
+      "original_category_name": "Volleyball",
+      "display_category_name": "Volleyball",
+      "has_children": false
+    },
+    {
+      "category_id": 101278,
+      "parent_category_id": 100725,
+      "original_category_name": "Basketball",
+      "display_category_name": "Basketball",
+      "has_children": false
+    },
+    {
+      "category_id": 101277,
+      "parent_category_id": 100725,
+      "original_category_name": "Soccer, Futsal \u0026 Sepak Takraw",
+      "display_category_name": "Soccer, Futsal \u0026 Sepak Takraw",
+      "has_children": false
+    },
+    {
+      "category_id": 101275,
+      "parent_category_id": 100725,
+      "original_category_name": "Boardsports",
+      "display_category_name": "Boardsports",
+      "has_children": false
+    },
+    {
+      "category_id": 101273,
+      "parent_category_id": 100725,
+      "original_category_name": "Camping \u0026 Hiking",
+      "display_category_name": "Camping \u0026 Hiking",
+      "has_children": false
+    },
+    {
+      "category_id": 101272,
+      "parent_category_id": 100725,
+      "original_category_name": "Cycling",
+      "display_category_name": "Cycling",
+      "has_children": false
+    },
+    {
+      "category_id": 101271,
+      "parent_category_id": 100725,
+      "original_category_name": "Fishing",
+      "display_category_name": "Fishing",
+      "has_children": false
+    },
+    {
+      "category_id": 100638,
+      "parent_category_id": 0,
+      "original_category_name": "Stationery",
+      "display_category_name": "Stationery",
+      "has_children": true
+    },
+    {
+      "category_id": 100735,
+      "parent_category_id": 100638,
+      "original_category_name": "Letters \u0026 Envelopes",
+      "display_category_name": "Letters \u0026 Envelopes",
+      "has_children": false
+    },
+    {
+      "category_id": 100734,
+      "parent_category_id": 100638,
+      "original_category_name": "Notebooks \u0026 Papers",
+      "display_category_name": "Notebooks \u0026 Papers",
+      "has_children": false
+    },
+    {
+      "category_id": 100733,
+      "parent_category_id": 100638,
+      "original_category_name": "Art Supplies",
+      "display_category_name": "Art Supplies",
+      "has_children": false
+    },
+    {
+      "category_id": 100732,
+      "parent_category_id": 100638,
+      "original_category_name": "School \u0026 Office Equipment",
+      "display_category_name": "School \u0026 Office Equipment",
+      "has_children": false
+    },
+    {
+      "category_id": 100731,
+      "parent_category_id": 100638,
+      "original_category_name": "Writing \u0026 Correction",
+      "display_category_name": "Writing \u0026 Correction",
+      "has_children": false
+    },
+    {
+      "category_id": 100730,
+      "parent_category_id": 100638,
+      "original_category_name": "Gift \u0026 Wrapping",
+      "display_category_name": "Gift \u0026 Wrapping",
+      "has_children": false
+    },
+    {
+      "category_id": 100639,
+      "parent_category_id": 0,
+      "original_category_name": "Hobbies \u0026 Collections",
+      "display_category_name": "Hobbies \u0026 Collections",
+      "has_children": true
+    },
+    {
+      "category_id": 100741,
+      "parent_category_id": 100639,
+      "original_category_name": "Musical Instruments \u0026 Accessories",
+      "display_category_name": "Musical Instruments \u0026 Accessories",
+      "has_children": true
+    },
+    {
+      "category_id": 102017,
+      "parent_category_id": 100741,
+      "original_category_name": "String Instruments",
+      "display_category_name": "String Instruments",
+      "has_children": false
+    },
+    {
+      "category_id": 100739,
+      "parent_category_id": 100639,
+      "original_category_name": "Toys \u0026 Games",
+      "display_category_name": "Toys \u0026 Games",
+      "has_children": false
+    },
+    {
+      "category_id": 100738,
+      "parent_category_id": 100639,
+      "original_category_name": "Souvenirs",
+      "display_category_name": "Souvenirs",
+      "has_children": false
+    },
+    {
+      "category_id": 100737,
+      "parent_category_id": 100639,
+      "original_category_name": "Collectible Items",
+      "display_category_name": "Collectible Items",
+      "has_children": false
+    },
+    {
+      "category_id": 100640,
+      "parent_category_id": 0,
+      "original_category_name": "Automobiles",
+      "display_category_name": "Automobiles",
+      "has_children": true
+    },
+    {
+      "category_id": 100752,
+      "parent_category_id": 100640,
+      "original_category_name": "Automotive Oils \u0026 Lubes",
+      "display_category_name": "Automotive Oils \u0026 Lubes",
+      "has_children": true
+    },
+    {
+      "category_id": 101471,
+      "parent_category_id": 100752,
+      "original_category_name": "Automotive Fluids",
+      "display_category_name": "Automotive Fluids",
+      "has_children": false
+    },
+    {
+      "category_id": 100751,
+      "parent_category_id": 100640,
+      "original_category_name": "Automotive Care",
+      "display_category_name": "Automotive Care",
+      "has_children": false
+    },
+    {
+      "category_id": 100750,
+      "parent_category_id": 100640,
+      "original_category_name": "Automotive Tools",
+      "display_category_name": "Automotive Tools",
+      "has_children": false
+    },
+    {
+      "category_id": 100749,
+      "parent_category_id": 100640,
+      "original_category_name": "Automobile Spare Parts",
+      "display_category_name": "Automobile Spare Parts",
+      "has_children": true
+    },
+    {
+      "category_id": 101455,
+      "parent_category_id": 100749,
+      "original_category_name": "Electronics",
+      "display_category_name": "Electronics",
+      "has_children": true
+    },
+    {
+      "category_id": 101906,
+      "parent_category_id": 101455,
+      "original_category_name": "Ignition",
+      "display_category_name": "Ignition",
+      "has_children": false
+    },
+    {
+      "category_id": 101452,
+      "parent_category_id": 100749,
+      "original_category_name": "Engine Parts",
+      "display_category_name": "Engine Parts",
+      "has_children": false
+    },
+    {
+      "category_id": 100748,
+      "parent_category_id": 100640,
+      "original_category_name": "Automobile Exterior Accessories",
+      "display_category_name": "Automobile Exterior Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100747,
+      "parent_category_id": 100640,
+      "original_category_name": "Automobile Interior Accessories",
+      "display_category_name": "Automobile Interior Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100641,
+      "parent_category_id": 0,
+      "original_category_name": "Motorcycles",
+      "display_category_name": "Motorcycles",
+      "has_children": true
+    },
+    {
+      "category_id": 100757,
+      "parent_category_id": 100641,
+      "original_category_name": "Motorcycle Spare Parts",
+      "display_category_name": "Motorcycle Spare Parts",
+      "has_children": true
+    },
+    {
+      "category_id": 101488,
+      "parent_category_id": 100757,
+      "original_category_name": "Drivetrain, Transmission \u0026 Clutches",
+      "display_category_name": "Drivetrain, Transmission \u0026 Clutches",
+      "has_children": false
+    },
+    {
+      "category_id": 101484,
+      "parent_category_id": 100757,
+      "original_category_name": "Ignition \u0026 Engine Parts",
+      "display_category_name": "Ignition \u0026 Engine Parts",
+      "has_children": false
+    },
+    {
+      "category_id": 100756,
+      "parent_category_id": 100641,
+      "original_category_name": "Motorcycle Accessories",
+      "display_category_name": "Motorcycle Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 100643,
+      "parent_category_id": 0,
+      "original_category_name": "Books \u0026 Magazines",
+      "display_category_name": "Books \u0026 Magazines",
+      "has_children": true
+    },
+    {
+      "category_id": 100777,
+      "parent_category_id": 100643,
+      "original_category_name": "Books",
+      "display_category_name": "Books",
+      "has_children": false
+    },
+    {
+      "category_id": 100776,
+      "parent_category_id": 100643,
+      "original_category_name": "Magazines \u0026 Newspaper",
+      "display_category_name": "Magazines \u0026 Newspaper",
+      "has_children": false
+    },
+    {
+      "category_id": 100644,
+      "parent_category_id": 0,
+      "original_category_name": "Computers \u0026 Accessories",
+      "display_category_name": "Computers \u0026 Accessories",
+      "has_children": true
+    },
+    {
+      "category_id": 101941,
+      "parent_category_id": 100644,
+      "original_category_name": "Keyboards \u0026 Mice",
+      "display_category_name": "Keyboards \u0026 Mice",
+      "has_children": false
+    },
+    {
+      "category_id": 101940,
+      "parent_category_id": 100644,
+      "original_category_name": "Peripherals \u0026 Accessories",
+      "display_category_name": "Peripherals \u0026 Accessories",
+      "has_children": false
+    },
+    {
+      "category_id": 101939,
+      "parent_category_id": 100644,
+      "original_category_name": "Printers \u0026 Scanners",
+      "display_category_name": "Printers \u0026 Scanners",
+      "has_children": false
+    },
+    {
+      "category_id": 101938,
+      "parent_category_id": 100644,
+      "original_category_name": "Office Equipment",
+      "display_category_name": "Office Equipment",
+      "has_children": false
+    },
+    {
+      "category_id": 101936,
+      "parent_category_id": 100644,
+      "original_category_name": "Network Components",
+      "display_category_name": "Network Components",
+      "has_children": false
+    },
+    {
+      "category_id": 101935,
+      "parent_category_id": 100644,
+      "original_category_name": "Data Storage",
+      "display_category_name": "Data Storage",
+      "has_children": false
+    },
+    {
+      "category_id": 101934,
+      "parent_category_id": 100644,
+      "original_category_name": "Desktop \u0026 Laptop Components",
+      "display_category_name": "Desktop \u0026 Laptop Components",
+      "has_children": false
+    },
+    {
+      "category_id": 101932,
+      "parent_category_id": 100644,
+      "original_category_name": "Desktop Computers",
+      "display_category_name": "Desktop Computers",
+      "has_children": false
+    }
+  ]
+}
