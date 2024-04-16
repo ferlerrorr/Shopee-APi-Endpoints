@@ -13,7 +13,7 @@ $host = $_ENV['BASE_URL'];
 $redirect_url = $_ENV['REDIRECT_URL'];
 $time_stamp = time();
 //! Global Variables
-$category_id_list = [102079];
+$category_id_list = [102081];
 $category_id_csv = implode(',', $category_id_list);
 
 $path = '/api/v2/product/get_attribute_tree';
