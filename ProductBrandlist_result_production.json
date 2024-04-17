@@ -1,0 +1,65 @@
+{
+  "error": "",
+  "message": "",
+  "warning": "",
+  "request_id": "d06937750fcceb24d1712edfe7fb4221",
+  "response": {
+    "brand_list": [
+      {
+        "brand_id": 0,
+        "original_brand_name": "NoBrand",
+        "display_brand_name": "NoBrand"
+      },
+      {
+        "brand_id": 1011668,
+        "original_brand_name": "BEAUSKIN",
+        "display_brand_name": "BEAUSKIN"
+      },
+      {
+        "brand_id": 1011708,
+        "original_brand_name": "CHEFMASTER",
+        "display_brand_name": "CHEFMASTER"
+      },
+      {
+        "brand_id": 1011716,
+        "original_brand_name": "EAGLE",
+        "display_brand_name": "EAGLE"
+      },
+      {
+        "brand_id": 1011720,
+        "original_brand_name": "BRAGG",
+        "display_brand_name": "BRAGG"
+      },
+      {
+        "brand_id": 1011737,
+        "original_brand_name": "CJ",
+        "display_brand_name": "CJ"
+      },
+      {
+        "brand_id": 1011739,
+        "original_brand_name": "BROADWAY",
+        "display_brand_name": "BROADWAY"
+      },
+      {
+        "brand_id": 1011770,
+        "original_brand_name": "DRAGON MOMOKO",
+        "display_brand_name": "DRAGON MOMOKO"
+      },
+      {
+        "brand_id": 1011788,
+        "original_brand_name": "DURALITE",
+        "display_brand_name": "DURALITE"
+      },
+      {
+        "brand_id": 1011796,
+        "original_brand_name": "ETN",
+        "display_brand_name": "ETN"
+      }
+    ],
+    "has_next_page": true,
+    "next_offset": 1011817,
+    "is_mandatory": true,
+    "input_type": "DROP_DOWN"
+  },
+  "debug_message": ""
+}

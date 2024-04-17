@@ -1,0 +1,666 @@
+{
+  "error": "",
+  "message": "",
+  "warning": "",
+  "request_id": "86040d324b653f90e200b763f4aa3921",
+  "response": {
+    "list": [
+      {
+        "category_id": 102073,
+        "attribute_tree": [
+          {
+            "attribute_id": 100010,
+            "mandatory": false,
+            "name": "Shelf Life",
+            "attribute_value_list": [
+              {
+                "value_id": 563,
+                "name": "1 Month",
+                "multi_lang": [{ "language": "zh-Hans", "value": "1 Month" }]
+              },
+              {
+                "value_id": 568,
+                "name": "2 Months",
+                "multi_lang": [{ "language": "zh-Hans", "value": "2 Months" }]
+              },
+              {
+                "value_id": 574,
+                "name": "3 Months",
+                "multi_lang": [{ "language": "zh-Hans", "value": "3 Months" }]
+              },
+              {
+                "value_id": 580,
+                "name": "6 Months",
+                "multi_lang": [{ "language": "zh-Hans", "value": "6 Months" }]
+              },
+              {
+                "value_id": 593,
+                "name": "12 Months",
+                "multi_lang": [{ "language": "zh-Hans", "value": "12 Months" }]
+              },
+              {
+                "value_id": 605,
+                "name": "24 Months",
+                "multi_lang": [{ "language": "zh-Hans", "value": "24 Months" }]
+              }
+            ],
+            "attribute_info": {
+              "input_type": 2,
+              "input_validation_type": 2,
+              "format_type": 1
+            },
+            "multi_lang": [{ "language": "zh-Hans", "value": "Shelf Life" }]
+          },
+          {
+            "attribute_id": 100037,
+            "mandatory": false,
+            "name": "Region of Origin",
+            "attribute_value_list": [
+              {
+                "value_id": 1,
+                "name": "Japan",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Japan" }]
+              },
+              {
+                "value_id": 26,
+                "name": "Australia",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Australia" }]
+              },
+              {
+                "value_id": 35,
+                "name": "Mainland China",
+                "multi_lang": [
+                  { "language": "zh-Hans", "value": "Mainland China" }
+                ]
+              },
+              {
+                "value_id": 48,
+                "name": "Korea",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Korea" }]
+              },
+              {
+                "value_id": 60,
+                "name": "Europe",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Europe" }]
+              },
+              {
+                "value_id": 68,
+                "name": "Indonesia",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Indonesia" }]
+              },
+              {
+                "value_id": 74,
+                "name": "Malaysia",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Malaysia" }]
+              },
+              {
+                "value_id": 93,
+                "name": "Others",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Others" }]
+              },
+              {
+                "value_id": 104,
+                "name": "Philippines",
+                "multi_lang": [
+                  { "language": "zh-Hans", "value": "Philippines" }
+                ]
+              },
+              {
+                "value_id": 108,
+                "name": "Singapore",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Singapore" }]
+              },
+              {
+                "value_id": 110,
+                "name": "America",
+                "multi_lang": [{ "language": "zh-Hans", "value": "America" }]
+              },
+              {
+                "value_id": 112,
+                "name": "Taiwan",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Taiwan" }]
+              },
+              {
+                "value_id": 129,
+                "name": "Thailand",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Thailand" }]
+              },
+              {
+                "value_id": 136,
+                "name": "Vietnam",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Vietnam" }]
+              },
+              {
+                "value_id": 142,
+                "name": "England",
+                "multi_lang": [{ "language": "zh-Hans", "value": "England" }]
+              },
+              {
+                "value_id": 146,
+                "name": "France",
+                "multi_lang": [{ "language": "zh-Hans", "value": "France" }]
+              },
+              {
+                "value_id": 149,
+                "name": "Germany",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Germany" }]
+              },
+              {
+                "value_id": 151,
+                "name": "Denmark",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Denmark" }]
+              },
+              {
+                "value_id": 154,
+                "name": "India",
+                "multi_lang": [{ "language": "zh-Hans", "value": "India" }]
+              },
+              {
+                "value_id": 156,
+                "name": "Hong Kong",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Hong Kong" }]
+              },
+              {
+                "value_id": 158,
+                "name": "Italy",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Italy" }]
+              },
+              {
+                "value_id": 160,
+                "name": "Netherlands",
+                "multi_lang": [
+                  { "language": "zh-Hans", "value": "Netherlands" }
+                ]
+              },
+              {
+                "value_id": 163,
+                "name": "New Zealand",
+                "multi_lang": [
+                  { "language": "zh-Hans", "value": "New Zealand" }
+                ]
+              },
+              {
+                "value_id": 165,
+                "name": "Norway",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Norway" }]
+              },
+              {
+                "value_id": 167,
+                "name": "UK",
+                "multi_lang": [{ "language": "zh-Hans", "value": "UK" }]
+              },
+              {
+                "value_id": 169,
+                "name": "Sweden",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Sweden" }]
+              },
+              {
+                "value_id": 177,
+                "name": "Canada",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Canada" }]
+              },
+              {
+                "value_id": 6737,
+                "name": "Brasil",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Brasil" }]
+              },
+              {
+                "value_id": 6738,
+                "name": "Colombia",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Colombia" }]
+              },
+              {
+                "value_id": 6739,
+                "name": "Chile",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Chile" }]
+              },
+              {
+                "value_id": 6740,
+                "name": "Argentina",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Argentina" }]
+              },
+              {
+                "value_id": 6741,
+                "name": "Mexico",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Mexico" }]
+              },
+              {
+                "value_id": 7181,
+                "name": "Poland",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Poland" }]
+              }
+            ],
+            "attribute_info": {
+              "input_type": 2,
+              "input_validation_type": 2,
+              "format_type": 1
+            },
+            "multi_lang": [
+              { "language": "zh-Hans", "value": "Region of Origin" }
+            ]
+          },
+          {
+            "attribute_id": 100048,
+            "mandatory": false,
+            "name": "Storage Type",
+            "attribute_value_list": [
+              {
+                "value_id": 467,
+                "name": "Frozen",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Frozen" }]
+              },
+              {
+                "value_id": 473,
+                "name": "Others",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Others" }]
+              }
+            ],
+            "attribute_info": {
+              "input_type": 2,
+              "input_validation_type": 2,
+              "format_type": 1
+            },
+            "multi_lang": [{ "language": "zh-Hans", "value": "Storage Type" }]
+          },
+          {
+            "attribute_id": 100060,
+            "mandatory": false,
+            "name": "Vegetable Type",
+            "attribute_value_list": [
+              {
+                "value_id": 488,
+                "name": "Beans, Peas \u0026 Nuts",
+                "multi_lang": [
+                  { "language": "zh-Hans", "value": "Beans, Peas \u0026 Nuts" }
+                ]
+              },
+              {
+                "value_id": 494,
+                "name": "Brinjals, Gourds \u0026 Squashes",
+                "multi_lang": [
+                  {
+                    "language": "zh-Hans",
+                    "value": "Brinjals, Gourds \u0026 Squashes"
+                  }
+                ]
+              },
+              {
+                "value_id": 510,
+                "name": "Broccoli \u0026 Cauliflowers",
+                "multi_lang": [
+                  {
+                    "language": "zh-Hans",
+                    "value": "Broccoli \u0026 Cauliflowers"
+                  }
+                ]
+              },
+              {
+                "value_id": 516,
+                "name": "Carrots, Potatoes \u0026 Roots",
+                "multi_lang": [
+                  {
+                    "language": "zh-Hans",
+                    "value": "Carrots, Potatoes \u0026 Roots"
+                  }
+                ]
+              },
+              {
+                "value_id": 521,
+                "name": "Chillies \u0026 Capsicums",
+                "multi_lang": [
+                  {
+                    "language": "zh-Hans",
+                    "value": "Chillies \u0026 Capsicums"
+                  }
+                ]
+              },
+              {
+                "value_id": 527,
+                "name": "Cucumbers \u0026 Lady Fingers",
+                "multi_lang": [
+                  {
+                    "language": "zh-Hans",
+                    "value": "Cucumbers \u0026 Lady Fingers"
+                  }
+                ]
+              },
+              {
+                "value_id": 534,
+                "name": "Garlic, Ginger \u0026 Onions",
+                "multi_lang": [
+                  {
+                    "language": "zh-Hans",
+                    "value": "Garlic, Ginger \u0026 Onions"
+                  }
+                ]
+              },
+              {
+                "value_id": 538,
+                "name": "Spices \u0026 Herbs",
+                "multi_lang": [
+                  { "language": "zh-Hans", "value": "Spices \u0026 Herbs" }
+                ]
+              },
+              {
+                "value_id": 573,
+                "name": "Tomatoes \u0026 Corn",
+                "multi_lang": [
+                  { "language": "zh-Hans", "value": "Tomatoes \u0026 Corn" }
+                ]
+              },
+              {
+                "value_id": 589,
+                "name": "Leafy Vegetables",
+                "multi_lang": [
+                  { "language": "zh-Hans", "value": "Leafy Vegetables" }
+                ]
+              },
+              {
+                "value_id": 603,
+                "name": "Cabbages, Celeries \u0026 Lettuces",
+                "multi_lang": [
+                  {
+                    "language": "zh-Hans",
+                    "value": "Cabbages, Celeries \u0026 Lettuces"
+                  }
+                ]
+              },
+              {
+                "value_id": 638,
+                "name": "Asparagus \u0026 Sprouts",
+                "multi_lang": [
+                  { "language": "zh-Hans", "value": "Asparagus \u0026 Sprouts" }
+                ]
+              }
+            ],
+            "attribute_info": {
+              "input_type": 2,
+              "input_validation_type": 2,
+              "format_type": 1
+            },
+            "multi_lang": [{ "language": "zh-Hans", "value": "Vegetable Type" }]
+          },
+          {
+            "attribute_id": 100061,
+            "mandatory": false,
+            "name": "Expiry Date",
+            "attribute_info": {
+              "input_type": 3,
+              "input_validation_type": 4,
+              "format_type": 1,
+              "date_format_type": 0
+            },
+            "multi_lang": [{ "language": "zh-Hans", "value": "Expiry Date" }]
+          },
+          {
+            "attribute_id": 100095,
+            "mandatory": false,
+            "name": "Weight",
+            "attribute_value_list": [
+              {
+                "value_id": 515,
+                "name": "10g",
+                "value_unit": "g",
+                "multi_lang": [{ "language": "zh-Hans", "value": "10g" }]
+              },
+              {
+                "value_id": 523,
+                "name": "20g",
+                "value_unit": "g",
+                "multi_lang": [{ "language": "zh-Hans", "value": "20g" }]
+              },
+              {
+                "value_id": 545,
+                "name": "30g",
+                "value_unit": "g",
+                "multi_lang": [{ "language": "zh-Hans", "value": "30g" }]
+              },
+              {
+                "value_id": 551,
+                "name": "100g",
+                "value_unit": "g",
+                "multi_lang": [{ "language": "zh-Hans", "value": "100g" }]
+              },
+              {
+                "value_id": 556,
+                "name": "50g",
+                "value_unit": "g",
+                "multi_lang": [{ "language": "zh-Hans", "value": "50g" }]
+              },
+              {
+                "value_id": 562,
+                "name": "150g",
+                "value_unit": "g",
+                "multi_lang": [{ "language": "zh-Hans", "value": "150g" }]
+              },
+              {
+                "value_id": 578,
+                "name": "200g",
+                "value_unit": "g",
+                "multi_lang": [{ "language": "zh-Hans", "value": "200g" }]
+              },
+              {
+                "value_id": 586,
+                "name": "250g",
+                "value_unit": "g",
+                "multi_lang": [{ "language": "zh-Hans", "value": "250g" }]
+              },
+              {
+                "value_id": 599,
+                "name": "300g",
+                "value_unit": "g",
+                "multi_lang": [{ "language": "zh-Hans", "value": "300g" }]
+              },
+              {
+                "value_id": 613,
+                "name": "500g",
+                "value_unit": "g",
+                "multi_lang": [{ "language": "zh-Hans", "value": "500g" }]
+              },
+              {
+                "value_id": 622,
+                "name": "750g",
+                "value_unit": "g",
+                "multi_lang": [{ "language": "zh-Hans", "value": "750g" }]
+              },
+              {
+                "value_id": 631,
+                "name": "1kg",
+                "value_unit": "kg",
+                "multi_lang": [{ "language": "zh-Hans", "value": "1kg" }]
+              },
+              {
+                "value_id": 640,
+                "name": "1.5kg",
+                "value_unit": "kg",
+                "multi_lang": [{ "language": "zh-Hans", "value": "1.5kg" }]
+              },
+              {
+                "value_id": 646,
+                "name": "2kg",
+                "value_unit": "kg",
+                "multi_lang": [{ "language": "zh-Hans", "value": "2kg" }]
+              },
+              {
+                "value_id": 653,
+                "name": "3kg",
+                "value_unit": "kg",
+                "multi_lang": [{ "language": "zh-Hans", "value": "3kg" }]
+              },
+              {
+                "value_id": 663,
+                "name": "5kg",
+                "value_unit": "kg",
+                "multi_lang": [{ "language": "zh-Hans", "value": "5kg" }]
+              }
+            ],
+            "attribute_info": {
+              "input_type": 2,
+              "input_validation_type": 3,
+              "format_type": 2,
+              "attribute_unit_list": ["g", "kg"]
+            },
+            "multi_lang": [{ "language": "zh-Hans", "value": "Weight" }]
+          },
+          {
+            "attribute_id": 100251,
+            "mandatory": false,
+            "name": "Dietary Needs",
+            "attribute_value_list": [
+              {
+                "value_id": 56,
+                "name": "Halal",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Halal" }]
+              },
+              {
+                "value_id": 63,
+                "name": "Others",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Others" }]
+              },
+              {
+                "value_id": 83,
+                "name": "Organic",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Organic" }]
+              }
+            ],
+            "attribute_info": {
+              "input_type": 5,
+              "input_validation_type": 2,
+              "format_type": 1,
+              "max_value_count": 5
+            },
+            "multi_lang": [{ "language": "zh-Hans", "value": "Dietary Needs" }]
+          },
+          {
+            "attribute_id": 100963,
+            "mandatory": false,
+            "name": "FDA Registration No.",
+            "attribute_info": {
+              "input_type": 3,
+              "input_validation_type": 2,
+              "format_type": 1
+            },
+            "multi_lang": [
+              { "language": "zh-Hans", "value": "FDA Registration No." }
+            ]
+          },
+          {
+            "attribute_id": 100974,
+            "mandatory": false,
+            "name": "Ingredient",
+            "attribute_info": {
+              "input_type": 3,
+              "input_validation_type": 2,
+              "format_type": 1
+            },
+            "multi_lang": [{ "language": "zh-Hans", "value": "Ingredient" }]
+          },
+          {
+            "attribute_id": 100999,
+            "mandatory": false,
+            "name": "Quantity",
+            "attribute_info": {
+              "input_type": 3,
+              "input_validation_type": 2,
+              "format_type": 1
+            },
+            "multi_lang": [{ "language": "zh-Hans", "value": "Quantity" }]
+          },
+          {
+            "attribute_id": 101029,
+            "mandatory": false,
+            "name": "Pack Size",
+            "attribute_info": {
+              "input_type": 3,
+              "input_validation_type": 3,
+              "format_type": 2,
+              "attribute_unit_list": [
+                "ML",
+                "L",
+                "MG",
+                "G/GR",
+                "KG",
+                "CM",
+                "M",
+                "Dozen",
+                "Piece",
+                "Pack",
+                "Set",
+                "Box"
+              ]
+            },
+            "multi_lang": [{ "language": "zh-Hans", "value": "Pack Size" }]
+          },
+          {
+            "attribute_id": 101050,
+            "mandatory": false,
+            "name": "Storage Condition",
+            "attribute_value_list": [
+              {
+                "value_id": 6231,
+                "name": "Normal",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Normal" }]
+              },
+              {
+                "value_id": 6232,
+                "name": "Air Conditioned",
+                "multi_lang": [
+                  { "language": "zh-Hans", "value": "Air Conditioned" }
+                ]
+              },
+              {
+                "value_id": 6233,
+                "name": "Chilled",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Chilled" }]
+              },
+              {
+                "value_id": 6234,
+                "name": "Frozen",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Frozen" }]
+              },
+              {
+                "value_id": 6235,
+                "name": "Deep Frozen",
+                "multi_lang": [
+                  { "language": "zh-Hans", "value": "Deep Frozen" }
+                ]
+              }
+            ],
+            "attribute_info": {
+              "input_type": 1,
+              "input_validation_type": 0,
+              "format_type": 1
+            },
+            "multi_lang": [
+              { "language": "zh-Hans", "value": "Storage Condition" }
+            ]
+          },
+          {
+            "attribute_id": 101069,
+            "mandatory": false,
+            "name": "Organic Food",
+            "attribute_value_list": [
+              {
+                "value_id": 6742,
+                "name": "Yes",
+                "multi_lang": [{ "language": "zh-Hans", "value": "Yes" }]
+              },
+              {
+                "value_id": 6743,
+                "name": "No",
+                "multi_lang": [{ "language": "zh-Hans", "value": "No" }]
+              }
+            ],
+            "attribute_info": {
+              "input_type": 1,
+              "input_validation_type": 0,
+              "format_type": 1
+            },
+            "multi_lang": [{ "language": "zh-Hans", "value": "Organic Food" }]
+          }
+        ]
+      }
+    ]
+  },
+  "debug_message": ""
+}

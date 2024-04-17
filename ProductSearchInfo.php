@@ -22,7 +22,7 @@ $base_string = sprintf("%s%s%s%s%s", $partner_id, $path, $time_stamp, $access_to
 $sign = generateSign($base_string, $partner_key);
 
 // Define the array
-$item_product_list = [1862986, 1862913];
+$item_product_list = [24416626450];
 
 // Convert the array values to strings
 $item_product_list = array_map('strval', $item_product_list);

@@ -1,0 +1,59 @@
+{
+  "error": "",
+  "message": "",
+  "response": {
+    "logistics_channel_list": [
+      {
+        "logistics_channel_id": 4000,
+        "logistics_channel_name": "Standard Local",
+        "cod_enabled": true,
+        "enabled": true,
+        "fee_type": "SIZE_INPUT",
+        "size_list": [],
+        "weight_limit": { "item_max_weight": 0, "item_min_weight": 0 },
+        "item_max_dimension": {
+          "height": 0,
+          "width": 0,
+          "length": 0,
+          "unit": "UNKNOWN",
+          "dimension_sum": 0
+        },
+        "force_enable": false,
+        "mask_channel_id": 0,
+        "logistics_description": "",
+        "volume_limit": { "item_max_volume": 0, "item_min_volume": 0 },
+        "logistics_capability": { "seller_logistics": false },
+        "seller_logistic_has_configuration": null,
+        "support_cross_border": false,
+        "block_seller_cover_shipping_fee": false,
+        "support_pre_order": true
+      },
+      {
+        "logistics_channel_id": 40018,
+        "logistics_channel_name": "J\u0026T Express",
+        "cod_enabled": true,
+        "enabled": true,
+        "fee_type": "SIZE_INPUT",
+        "size_list": [],
+        "weight_limit": { "item_max_weight": 50, "item_min_weight": 0 },
+        "item_max_dimension": {
+          "height": 150,
+          "width": 150,
+          "length": 150,
+          "unit": "cm",
+          "dimension_sum": 0
+        },
+        "force_enable": false,
+        "mask_channel_id": 4000,
+        "logistics_description": "J\u0026T branches operating hours are from Monday to Sunday, 9:00 AM to 5:00 PM\nEnable this channel to offer \u003ca href=\"https://seller.shopee.ph/edu/article/1443\" target=\"_blank\"\u003eFree Shipping\u003c/a\u003e to your buyers.\u003cbr\u003e\u003cbr\u003e\nMaximum dimensions in centimeters (length x width x height): 150 cm x 150 cm x 150 cm\nMaximum weight in kilograms: 30 kg\u003cbr\u003e\u003cbr\u003e\nYou need to provide your own packaging and shipping label/air waybill (AWB) on A6 size sticker paper. Air waybills (AWB) can be printed through Seller Centre upon arrangement of pickup.\u003cbr\u003e\u003cbr\u003e\nYou can schedule pickup with J\u0026T Express via Shopee app or Seller Centre.\nBooking cut-off time for \u003ca href=\"https://seller.shopee.ph/edu/article/3848\" target=\"_blank\"\u003esame-day pickup:\u003c/a\u003e 10:00 AM\u003cbr\u003e\u003cbr\u003e\nYou can also drop off your parcels at any J\u0026T Express participating branches stated in the \u003ca href=\"http://www.jtexpress.ph/\" target=\"_blank\"\u003eJ\u0026T Express website.\u003c/a\u003e\u003cbr\u003e\u003cbr\u003e\nBuyers can return parcels to sellers via integrated \u003ca href=\"https://seller.shopee.ph/edu/article/5735\" target=\"_blank\"\u003eJ\u0026T Express Drop-off service.\u003c/a\u003e This service is available in all participating J\u0026T Express branches nationwide.",
+        "volume_limit": { "item_max_volume": 0, "item_min_volume": 0 },
+        "logistics_capability": { "seller_logistics": false },
+        "seller_logistic_has_configuration": null,
+        "support_cross_border": false,
+        "block_seller_cover_shipping_fee": false,
+        "support_pre_order": true
+      }
+    ]
+  },
+  "request_id": "ced17920fb6c2a5653d84c2c69d79721"
+}

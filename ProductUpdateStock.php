@@ -34,14 +34,14 @@ curl_setopt_array($curl, array(
     CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
     CURLOPT_CUSTOMREQUEST => 'POST',
     CURLOPT_POSTFIELDS => '{
-    "item_id": 1862913,
+    "item_id": 24416626450,
     "stock_list": [
         {
             "model_id": 0,
             "seller_stock": [
                 {
                     "location_id": "",
-                    "stock": 90
+                    "stock": 0
                 }
             ]
         }

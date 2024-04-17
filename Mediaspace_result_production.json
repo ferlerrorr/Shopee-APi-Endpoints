@@ -1,0 +1,151 @@
+{
+  "error": "",
+  "message": "",
+  "warning": "",
+  "request_id": "1029f677bf179b00f67839875713c921",
+  "response": {
+    "image_info": {
+      "image_id": "sg-11134201-7rd51-lu7lmm7s2uyob1",
+      "image_url_list": [
+        {
+          "image_url_region": "SG",
+          "image_url": "https://cf.shopee.sg/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+        },
+        {
+          "image_url_region": "MY",
+          "image_url": "https://cf.shopee.com.my/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+        },
+        {
+          "image_url_region": "TW",
+          "image_url": "https://s-cf-tw.shopeesz.com/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+        },
+        {
+          "image_url_region": "ID",
+          "image_url": "https://cf.shopee.co.id/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+        },
+        {
+          "image_url_region": "TH",
+          "image_url": "https://cf.shopee.co.th/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+        },
+        {
+          "image_url_region": "VN",
+          "image_url": "https://cf.shopee.vn/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+        },
+        {
+          "image_url_region": "PH",
+          "image_url": "https://cf.shopee.ph/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+        },
+        {
+          "image_url_region": "BR",
+          "image_url": "https://cf.shopee.com.br/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+        },
+        {
+          "image_url_region": "MX",
+          "image_url": "https://cf.shopee.com.mx/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+        },
+        {
+          "image_url_region": "CO",
+          "image_url": "https://cf.shopee.com.co/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+        },
+        {
+          "image_url_region": "CL",
+          "image_url": "https://cf.shopee.cl/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+        },
+        {
+          "image_url_region": "IN",
+          "image_url": "https://cf.shopee.in/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+        },
+        {
+          "image_url_region": "PL",
+          "image_url": "https://cf.shopee.pl/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+        },
+        {
+          "image_url_region": "ES",
+          "image_url": "https://cf.shopee.es/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+        },
+        {
+          "image_url_region": "FR",
+          "image_url": "https://cf.shopee.fr/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+        },
+        {
+          "image_url_region": "AR",
+          "image_url": "https://cf.shopee.com.ar/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+        }
+      ]
+    },
+    "image_info_list": [
+      {
+        "id": 0,
+        "image_info": {
+          "image_id": "sg-11134201-7rd51-lu7lmm7s2uyob1",
+          "image_url_list": [
+            {
+              "image_url_region": "SG",
+              "image_url": "https://cf.shopee.sg/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+            },
+            {
+              "image_url_region": "MY",
+              "image_url": "https://cf.shopee.com.my/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+            },
+            {
+              "image_url_region": "TW",
+              "image_url": "https://s-cf-tw.shopeesz.com/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+            },
+            {
+              "image_url_region": "ID",
+              "image_url": "https://cf.shopee.co.id/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+            },
+            {
+              "image_url_region": "TH",
+              "image_url": "https://cf.shopee.co.th/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+            },
+            {
+              "image_url_region": "VN",
+              "image_url": "https://cf.shopee.vn/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+            },
+            {
+              "image_url_region": "PH",
+              "image_url": "https://cf.shopee.ph/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+            },
+            {
+              "image_url_region": "BR",
+              "image_url": "https://cf.shopee.com.br/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+            },
+            {
+              "image_url_region": "MX",
+              "image_url": "https://cf.shopee.com.mx/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+            },
+            {
+              "image_url_region": "CO",
+              "image_url": "https://cf.shopee.com.co/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+            },
+            {
+              "image_url_region": "CL",
+              "image_url": "https://cf.shopee.cl/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+            },
+            {
+              "image_url_region": "IN",
+              "image_url": "https://cf.shopee.in/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+            },
+            {
+              "image_url_region": "PL",
+              "image_url": "https://cf.shopee.pl/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+            },
+            {
+              "image_url_region": "ES",
+              "image_url": "https://cf.shopee.es/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+            },
+            {
+              "image_url_region": "FR",
+              "image_url": "https://cf.shopee.fr/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+            },
+            {
+              "image_url_region": "AR",
+              "image_url": "https://cf.shopee.com.ar/file/sg-11134201-7rd51-lu7lmm7s2uyob1"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

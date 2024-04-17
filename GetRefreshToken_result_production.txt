@@ -1,0 +1,18 @@
+array(8) {
+  ["partner_id"]=>
+  int(2005566)
+  ["refresh_token"]=>
+  string(32) "62576449495866537565577561555a64"
+  ["access_token"]=>
+  string(32) "544f41524f505a566562747942744154"
+  ["expire_in"]=>
+  int(14400)
+  ["request_id"]=>
+  string(32) "129c471839a03ac71859d055559e0a21"
+  ["error"]=>
+  string(0) ""
+  ["message"]=>
+  string(0) ""
+  ["shop_id"]=>
+  int(258882364)
+}

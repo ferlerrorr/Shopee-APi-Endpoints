@@ -1,0 +1,18 @@
+{
+  "error": "",
+  "message": "",
+  "request_id": "45933afcfee179ecbd3c215dfc076521:0200005b561af9e8:010000217b11b2f2",
+  "response": {
+    "has_next_page": false,
+    "item": [
+      {
+        "item_id": 24416626450,
+        "item_status": "NORMAL",
+        "update_time": 1713339784
+      }
+    ],
+    "next": "",
+    "total_count": 1
+  },
+  "warning": ""
+}

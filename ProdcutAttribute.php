@@ -14,7 +14,7 @@ $host = $_ENV['BASE_URL'];
 $redirect_url = $_ENV['REDIRECT_URL'];
 $time_stamp = time();
 //! Global Variables
-$category = 102081;
+$category = 102073;
 $path = '/api/v2/product/get_attributes';
 $base_string = sprintf("%s%s%s%s%s", $partner_id, $path, $time_stamp, $access_token, $shop_id);
 // var_dump($base_string);

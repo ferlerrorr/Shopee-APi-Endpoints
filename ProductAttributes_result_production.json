@@ -1,0 +1,601 @@
+{
+  "error": "",
+  "message": "",
+  "warning": "",
+  "request_id": "f40eb2ed06ed66c036e60ec26895ad21",
+  "response": {
+    "attribute_list": [
+      {
+        "attribute_id": 100010,
+        "original_attribute_name": "Shelf Life",
+        "display_attribute_name": "Shelf Life",
+        "is_mandatory": false,
+        "input_validation_type": "STRING_TYPE",
+        "format_type": "NORMAL",
+        "input_type": "COMBO_BOX",
+        "attribute_unit": [],
+        "attribute_value_list": [
+          {
+            "value_id": 563,
+            "original_value_name": "1 Month",
+            "display_value_name": "1 Month"
+          },
+          {
+            "value_id": 568,
+            "original_value_name": "2 Months",
+            "display_value_name": "2 Months"
+          },
+          {
+            "value_id": 574,
+            "original_value_name": "3 Months",
+            "display_value_name": "3 Months"
+          },
+          {
+            "value_id": 580,
+            "original_value_name": "6 Months",
+            "display_value_name": "6 Months"
+          },
+          {
+            "value_id": 593,
+            "original_value_name": "12 Months",
+            "display_value_name": "12 Months"
+          },
+          {
+            "value_id": 605,
+            "original_value_name": "24 Months",
+            "display_value_name": "24 Months"
+          }
+        ],
+        "max_input_value_number": 1
+      },
+      {
+        "attribute_id": 100037,
+        "original_attribute_name": "Region of Origin",
+        "display_attribute_name": "Country of Origin",
+        "is_mandatory": false,
+        "input_validation_type": "STRING_TYPE",
+        "format_type": "NORMAL",
+        "date_format_type": "YEAR_MONTH_DATE",
+        "input_type": "COMBO_BOX",
+        "attribute_unit": [],
+        "attribute_value_list": [
+          {
+            "value_id": 1,
+            "original_value_name": "Japan",
+            "display_value_name": "Japan"
+          },
+          {
+            "value_id": 26,
+            "original_value_name": "Australia",
+            "display_value_name": "Australia"
+          },
+          {
+            "value_id": 35,
+            "original_value_name": "Mainland China",
+            "display_value_name": "China"
+          },
+          {
+            "value_id": 48,
+            "original_value_name": "Korea",
+            "display_value_name": "Korea"
+          },
+          {
+            "value_id": 60,
+            "original_value_name": "Europe",
+            "display_value_name": "Europe"
+          },
+          {
+            "value_id": 68,
+            "original_value_name": "Indonesia",
+            "display_value_name": "Indonesia"
+          },
+          {
+            "value_id": 74,
+            "original_value_name": "Malaysia",
+            "display_value_name": "Malaysia"
+          },
+          {
+            "value_id": 93,
+            "original_value_name": "Others",
+            "display_value_name": "Others"
+          },
+          {
+            "value_id": 104,
+            "original_value_name": "Philippines",
+            "display_value_name": "Philippines"
+          },
+          {
+            "value_id": 108,
+            "original_value_name": "Singapore",
+            "display_value_name": "Singapore"
+          },
+          {
+            "value_id": 110,
+            "original_value_name": "America",
+            "display_value_name": "America"
+          },
+          {
+            "value_id": 112,
+            "original_value_name": "Taiwan",
+            "display_value_name": "Taiwan"
+          },
+          {
+            "value_id": 129,
+            "original_value_name": "Thailand",
+            "display_value_name": "Thailand"
+          },
+          {
+            "value_id": 136,
+            "original_value_name": "Vietnam",
+            "display_value_name": "Vietnam"
+          },
+          {
+            "value_id": 142,
+            "original_value_name": "England",
+            "display_value_name": "England"
+          },
+          {
+            "value_id": 146,
+            "original_value_name": "France",
+            "display_value_name": "France"
+          },
+          {
+            "value_id": 149,
+            "original_value_name": "Germany",
+            "display_value_name": "Germany"
+          },
+          {
+            "value_id": 151,
+            "original_value_name": "Denmark",
+            "display_value_name": "Denmark"
+          },
+          {
+            "value_id": 154,
+            "original_value_name": "India",
+            "display_value_name": "India"
+          },
+          {
+            "value_id": 156,
+            "original_value_name": "Hong Kong",
+            "display_value_name": "Hong Kong"
+          },
+          {
+            "value_id": 158,
+            "original_value_name": "Italy",
+            "display_value_name": "Italy"
+          },
+          {
+            "value_id": 160,
+            "original_value_name": "Netherlands",
+            "display_value_name": "Netherlands"
+          },
+          {
+            "value_id": 163,
+            "original_value_name": "New Zealand",
+            "display_value_name": "New Zealand"
+          },
+          {
+            "value_id": 165,
+            "original_value_name": "Norway",
+            "display_value_name": "Norway"
+          },
+          {
+            "value_id": 167,
+            "original_value_name": "UK",
+            "display_value_name": "UK"
+          },
+          {
+            "value_id": 169,
+            "original_value_name": "Sweden",
+            "display_value_name": "Sweden"
+          },
+          {
+            "value_id": 177,
+            "original_value_name": "Canada",
+            "display_value_name": "Canada"
+          },
+          {
+            "value_id": 6737,
+            "original_value_name": "Brasil",
+            "display_value_name": "Brasil"
+          },
+          {
+            "value_id": 6738,
+            "original_value_name": "Colombia",
+            "display_value_name": "Colombia"
+          },
+          {
+            "value_id": 6739,
+            "original_value_name": "Chile",
+            "display_value_name": "Chile"
+          },
+          {
+            "value_id": 6740,
+            "original_value_name": "Argentina",
+            "display_value_name": "Argentina"
+          },
+          {
+            "value_id": 6741,
+            "original_value_name": "Mexico",
+            "display_value_name": "Mexico"
+          },
+          {
+            "value_id": 7181,
+            "original_value_name": "Poland",
+            "display_value_name": "Poland"
+          }
+        ],
+        "max_input_value_number": 1
+      },
+      {
+        "attribute_id": 100048,
+        "original_attribute_name": "Storage Type",
+        "display_attribute_name": "Storage Type",
+        "is_mandatory": false,
+        "input_validation_type": "STRING_TYPE",
+        "format_type": "NORMAL",
+        "input_type": "COMBO_BOX",
+        "attribute_unit": [],
+        "attribute_value_list": [
+          {
+            "value_id": 467,
+            "original_value_name": "Frozen",
+            "display_value_name": "Frozen"
+          },
+          {
+            "value_id": 473,
+            "original_value_name": "Others",
+            "display_value_name": "Others"
+          }
+        ],
+        "max_input_value_number": 1
+      },
+      {
+        "attribute_id": 100060,
+        "original_attribute_name": "Vegetable Type",
+        "display_attribute_name": "Vegetable Type",
+        "is_mandatory": false,
+        "input_validation_type": "STRING_TYPE",
+        "format_type": "NORMAL",
+        "input_type": "COMBO_BOX",
+        "attribute_unit": [],
+        "attribute_value_list": [
+          {
+            "value_id": 488,
+            "original_value_name": "Beans, Peas \u0026 Nuts",
+            "display_value_name": "Beans, Peas \u0026 Nuts"
+          },
+          {
+            "value_id": 494,
+            "original_value_name": "Brinjals, Gourds \u0026 Squashes",
+            "display_value_name": "Brinjals, Gourds \u0026 Squashes"
+          },
+          {
+            "value_id": 510,
+            "original_value_name": "Broccoli \u0026 Cauliflowers",
+            "display_value_name": "Broccoli \u0026 Cauliflowers"
+          },
+          {
+            "value_id": 516,
+            "original_value_name": "Carrots, Potatoes \u0026 Roots",
+            "display_value_name": "Carrots, Potatoes \u0026 Roots"
+          },
+          {
+            "value_id": 521,
+            "original_value_name": "Chillies \u0026 Capsicums",
+            "display_value_name": "Chillies \u0026 Capsicums"
+          },
+          {
+            "value_id": 527,
+            "original_value_name": "Cucumbers \u0026 Lady Fingers",
+            "display_value_name": "Cucumbers \u0026 Lady Fingers"
+          },
+          {
+            "value_id": 534,
+            "original_value_name": "Garlic, Ginger \u0026 Onions",
+            "display_value_name": "Garlic, Ginger \u0026 Onions"
+          },
+          {
+            "value_id": 538,
+            "original_value_name": "Spices \u0026 Herbs",
+            "display_value_name": "Spices \u0026 Herbs"
+          },
+          {
+            "value_id": 573,
+            "original_value_name": "Tomatoes \u0026 Corn",
+            "display_value_name": "Tomatoes \u0026 Corn"
+          },
+          {
+            "value_id": 589,
+            "original_value_name": "Leafy Vegetables",
+            "display_value_name": "Leafy Vegetables"
+          },
+          {
+            "value_id": 603,
+            "original_value_name": "Cabbages, Celeries \u0026 Lettuces",
+            "display_value_name": "Cabbages, Celeries \u0026 Lettuces"
+          },
+          {
+            "value_id": 638,
+            "original_value_name": "Asparagus \u0026 Sprouts",
+            "display_value_name": "Asparagus \u0026 Sprouts"
+          }
+        ],
+        "max_input_value_number": 1
+      },
+      {
+        "attribute_id": 100061,
+        "original_attribute_name": "Expiry Date",
+        "display_attribute_name": "Expiry Date",
+        "is_mandatory": false,
+        "input_validation_type": "DATE_TYPE",
+        "format_type": "NORMAL",
+        "date_format_type": "YEAR_MONTH_DATE",
+        "input_type": "TEXT_FILED",
+        "attribute_unit": [],
+        "attribute_value_list": [],
+        "max_input_value_number": 1
+      },
+      {
+        "attribute_id": 100095,
+        "original_attribute_name": "Weight",
+        "display_attribute_name": "Weight",
+        "is_mandatory": false,
+        "input_validation_type": "FLOAT_TYPE",
+        "format_type": "QUANTITATIVE",
+        "input_type": "COMBO_BOX",
+        "attribute_unit": ["g", "kg"],
+        "attribute_value_list": [
+          {
+            "value_id": 515,
+            "original_value_name": "10",
+            "display_value_name": "10g",
+            "value_unit": "g"
+          },
+          {
+            "value_id": 523,
+            "original_value_name": "20",
+            "display_value_name": "20g",
+            "value_unit": "g"
+          },
+          {
+            "value_id": 545,
+            "original_value_name": "30",
+            "display_value_name": "30g",
+            "value_unit": "g"
+          },
+          {
+            "value_id": 551,
+            "original_value_name": "100",
+            "display_value_name": "100g",
+            "value_unit": "g"
+          },
+          {
+            "value_id": 556,
+            "original_value_name": "50",
+            "display_value_name": "50g",
+            "value_unit": "g"
+          },
+          {
+            "value_id": 562,
+            "original_value_name": "150",
+            "display_value_name": "150g",
+            "value_unit": "g"
+          },
+          {
+            "value_id": 578,
+            "original_value_name": "200",
+            "display_value_name": "200g",
+            "value_unit": "g"
+          },
+          {
+            "value_id": 586,
+            "original_value_name": "250",
+            "display_value_name": "250g",
+            "value_unit": "g"
+          },
+          {
+            "value_id": 599,
+            "original_value_name": "300",
+            "display_value_name": "300g",
+            "value_unit": "g"
+          },
+          {
+            "value_id": 613,
+            "original_value_name": "500",
+            "display_value_name": "500g",
+            "value_unit": "g"
+          },
+          {
+            "value_id": 622,
+            "original_value_name": "750",
+            "display_value_name": "750g",
+            "value_unit": "g"
+          },
+          {
+            "value_id": 631,
+            "original_value_name": "1",
+            "display_value_name": "1kg",
+            "value_unit": "kg"
+          },
+          {
+            "value_id": 640,
+            "original_value_name": "1.5",
+            "display_value_name": "1.5kg",
+            "value_unit": "kg"
+          },
+          {
+            "value_id": 646,
+            "original_value_name": "2",
+            "display_value_name": "2kg",
+            "value_unit": "kg"
+          },
+          {
+            "value_id": 653,
+            "original_value_name": "3",
+            "display_value_name": "3kg",
+            "value_unit": "kg"
+          },
+          {
+            "value_id": 663,
+            "original_value_name": "5",
+            "display_value_name": "5kg",
+            "value_unit": "kg"
+          }
+        ],
+        "max_input_value_number": 1
+      },
+      {
+        "attribute_id": 100251,
+        "original_attribute_name": "Dietary Needs",
+        "display_attribute_name": "Dietary Needs",
+        "is_mandatory": false,
+        "input_validation_type": "STRING_TYPE",
+        "format_type": "NORMAL",
+        "input_type": "MULTIPLE_SELECT_COMBO_BOX",
+        "attribute_unit": [],
+        "attribute_value_list": [
+          {
+            "value_id": 56,
+            "original_value_name": "Halal",
+            "display_value_name": "Halal"
+          },
+          {
+            "value_id": 63,
+            "original_value_name": "Others",
+            "display_value_name": "Others"
+          },
+          {
+            "value_id": 83,
+            "original_value_name": "Organic",
+            "display_value_name": "Organic"
+          }
+        ],
+        "max_input_value_number": 5
+      },
+      {
+        "attribute_id": 100963,
+        "original_attribute_name": "FDA Registration No.",
+        "display_attribute_name": "FDA Registration No.",
+        "is_mandatory": false,
+        "input_validation_type": "STRING_TYPE",
+        "format_type": "NORMAL",
+        "input_type": "TEXT_FILED",
+        "attribute_unit": [],
+        "attribute_value_list": [],
+        "max_input_value_number": 1
+      },
+      {
+        "attribute_id": 100974,
+        "original_attribute_name": "Ingredient",
+        "display_attribute_name": "Ingredient",
+        "is_mandatory": false,
+        "input_validation_type": "STRING_TYPE",
+        "format_type": "NORMAL",
+        "input_type": "TEXT_FILED",
+        "attribute_unit": [],
+        "attribute_value_list": [],
+        "max_input_value_number": 1
+      },
+      {
+        "attribute_id": 100999,
+        "original_attribute_name": "Quantity",
+        "display_attribute_name": "Quantity",
+        "is_mandatory": false,
+        "input_validation_type": "STRING_TYPE",
+        "format_type": "NORMAL",
+        "input_type": "TEXT_FILED",
+        "attribute_unit": [],
+        "attribute_value_list": [],
+        "max_input_value_number": 1
+      },
+      {
+        "attribute_id": 101029,
+        "original_attribute_name": "Pack Size",
+        "display_attribute_name": "Pack Size",
+        "is_mandatory": false,
+        "input_validation_type": "FLOAT_TYPE",
+        "format_type": "QUANTITATIVE",
+        "input_type": "TEXT_FILED",
+        "attribute_unit": [
+          "ML",
+          "L",
+          "MG",
+          "G/GR",
+          "KG",
+          "CM",
+          "M",
+          "Dozen",
+          "Piece",
+          "Pack",
+          "Set",
+          "Box"
+        ],
+        "attribute_value_list": [],
+        "max_input_value_number": 1
+      },
+      {
+        "attribute_id": 101050,
+        "original_attribute_name": "Storage Condition",
+        "display_attribute_name": "Storage Condition",
+        "is_mandatory": false,
+        "input_validation_type": "NO_VALIDATE_TYPE",
+        "format_type": "NORMAL",
+        "input_type": "DROP_DOWN",
+        "attribute_unit": [],
+        "attribute_value_list": [
+          {
+            "value_id": 6231,
+            "original_value_name": "Normal",
+            "display_value_name": "Normal"
+          },
+          {
+            "value_id": 6232,
+            "original_value_name": "Air Conditioned",
+            "display_value_name": "Air Conditioned"
+          },
+          {
+            "value_id": 6233,
+            "original_value_name": "Chilled",
+            "display_value_name": "Chilled"
+          },
+          {
+            "value_id": 6234,
+            "original_value_name": "Frozen",
+            "display_value_name": "Frozen"
+          },
+          {
+            "value_id": 6235,
+            "original_value_name": "Deep Frozen",
+            "display_value_name": "Deep Frozen"
+          }
+        ],
+        "max_input_value_number": 1
+      },
+      {
+        "attribute_id": 101069,
+        "original_attribute_name": "Organic Food",
+        "display_attribute_name": "Organic Food",
+        "is_mandatory": false,
+        "input_validation_type": "NO_VALIDATE_TYPE",
+        "format_type": "NORMAL",
+        "input_type": "DROP_DOWN",
+        "attribute_unit": [],
+        "attribute_value_list": [
+          {
+            "value_id": 6742,
+            "original_value_name": "Yes",
+            "display_value_name": "Yes"
+          },
+          {
+            "value_id": 6743,
+            "original_value_name": "No",
+            "display_value_name": "No"
+          }
+        ],
+        "max_input_value_number": 1
+      }
+    ]
+  },
+  "debug_message": ""
+}

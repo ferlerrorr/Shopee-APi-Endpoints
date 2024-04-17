@@ -1,0 +1,11 @@
+{
+  "error": "",
+  "message": "",
+  "warning": "",
+  "request_id": "9040a8dbce2c9e6a7acdb1fb49334321",
+  "response": {
+    "failure_list": [],
+    "success_list": [{ "location_id": "", "stock": 0 }]
+  },
+  "debug_message": ""
+}

@@ -1,0 +1,3 @@
+https://partner.shopeemobile.com/api/v2/shop/auth_partner?partner_id=2005566&timestamp=1713342278&sign=1280ac11d541f6b0f9f110e7330d4342d7798924af08463b0c531f578eb94262&redirect=https://dummyurl.rrhiapps.ph/ssd/authentication/shopee
+Generated Sign: 1280ac11d541f6b0f9f110e7330d4342d7798924af08463b0c531f578eb94262
+Generated Timestamp: 1713342278

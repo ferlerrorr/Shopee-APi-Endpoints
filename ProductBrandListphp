@@ -15,13 +15,16 @@ $time_stamp = time();
 //! Global Variables
 $category_id_list = [102073];
 $category_id_csv = implode(',', $category_id_list);
-
-$path = '/api/v2/product/get_attribute_tree';
+print_r($category_id_csv);
+$path = '/api/v2/product/get_brand_list';
 $base_string = sprintf("%s%s%s%s%s", $partner_id, $path, $time_stamp, $access_token, $shop_id);
 // var_dump($base_string);
 $sign = generateSign($base_string, $partner_key);
 
-$url = $host . $path . '?access_token=' . $access_token . '&category_id_list=' . $category_id_csv  . '&language=zh-Hans' . '&partner_id=' . $partner_id . '&shop_id=' . intval($shop_id) . '&sign=' . $sign . '&timestamp=' . $time_stamp;
+
+//*https://partner.shopeemobile.com/api/v2/product/get_brand_list?access_token=access_token&category_id=12345&language=zh-hans&offset=0&page_size=10&partner_id=partner_id&shop_id=shop_id&sign=sign&status=1&timestamp=timestamp',
+
+$url = $host . $path . '?access_token=' . $access_token . '&category_id=' . $category_id_csv  . '&language=zh-Hans' . '&offset=0' . '&page_size=10' . '&partner_id=' . $partner_id . '&shop_id=' . intval($shop_id) . '&sign=' . $sign . '&status=1' . '&timestamp=' . $time_stamp;
 $curl = curl_init();
 
 curl_setopt_array($curl, array(
