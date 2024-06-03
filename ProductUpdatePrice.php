@@ -34,10 +34,10 @@ curl_setopt_array($curl, array(
     CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
     CURLOPT_CUSTOMREQUEST => 'POST',
     CURLOPT_POSTFIELDS => '{
-        "item_id": 24416626450,
+        "item_id": 1869850,
         "price_list": [
             {
-                "original_price": 415
+                "original_price": 3400
             }
         ]
     }',
