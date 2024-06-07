@@ -26,7 +26,7 @@ try {
     $url = strval($host) . strval($path) . '?access_token=' . strval($access_token) . '&item_status=NORMAL&offset=0&page_size=100&partner_id=' . strval($partner_id) . '&shop_id=' . strval($shop_id) . '&sign=' . strval($sign) . '&timestamp=' . strval($time_stamp) . '&update_time_from=1611311600&update_time_to=' . strval($time_stamp);
     // var_dump($base_string);
     // var_dump($sign);
-    // var_dump($url);
+    var_dump($url);
     // Generate sign for the request
     $curl = curl_init();
     curl_setopt_array($curl, array(

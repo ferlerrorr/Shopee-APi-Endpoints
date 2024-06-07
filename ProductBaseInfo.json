@@ -1,0 +1,155 @@
+{
+  "error": "",
+  "message": "",
+  "warning": "fail to get channel estimated_shipping_fee for channel [4000];\nfail to get channel estimated_shipping_fee for channel [4000]",
+  "request_id": "88970243bbfe654e29c8dd7cb26c8621",
+  "response": {
+    "item_list": [
+      {
+        "item_id": 24416626450,
+        "category_id": 100901,
+        "item_name": "Cathy Doll Aqua Sun Non Greasy Body Sun Serum SPF50 PA+++ 10ml - 6s",
+        "description": "12",
+        "item_sku": "61069",
+        "create_time": 1709542035,
+        "update_time": 1714624514,
+        "price_info": [
+          { "currency": "PHP", "original_price": 415, "current_price": 415 }
+        ],
+        "image": {
+          "image_id_list": ["ph-11134207-7r990-lsgsw5sw9b2c83"],
+          "image_url_list": [
+            "https://cf.shopee.ph/file/ph-11134207-7r990-lsgsw5sw9b2c83"
+          ],
+          "image_ratio": "1:1"
+        },
+        "weight": "0.01",
+        "dimension": {
+          "package_length": 1,
+          "package_width": 1,
+          "package_height": 1
+        },
+        "logistic_info": [
+          {
+            "logistic_id": 4000,
+            "logistic_name": "Standard Local",
+            "enabled": true,
+            "size_id": 0,
+            "is_free": false
+          }
+        ],
+        "pre_order": { "is_pre_order": false, "days_to_ship": 2 },
+        "condition": "NEW",
+        "size_chart": "",
+        "item_status": "UNLIST",
+        "has_model": false,
+        "promotion_id": 0,
+        "brand": { "brand_id": 0, "original_brand_name": "NoBrand" },
+        "item_dangerous": 0,
+        "complaint_policy": {
+          "warranty_time": "",
+          "exclude_entrepreneur_warranty": false,
+          "complaint_address_id": 0,
+          "additional_information": ""
+        },
+        "description_type": "normal",
+        "stock_info_v2": {
+          "summary_info": {
+            "total_reserved_stock": 0,
+            "total_available_stock": 0
+          },
+          "seller_stock": [
+            { "location_id": "PHZ", "stock": 0, "if_saleable": true }
+          ],
+          "shopee_stock": [{ "location_id": "", "stock": 0 }]
+        },
+        "size_chart_id": 0,
+        "promotion_image": {
+          "image_id_list": ["ph-11134207-7r990-lsgsw5sw9b2c83"],
+          "image_url_list": [
+            "https://cf.shopee.ph/file/ph-11134207-7r990-lsgsw5sw9b2c83"
+          ]
+        },
+        "deboost": "FALSE"
+      },
+      {
+        "item_id": 24516626352,
+        "category_id": 100972,
+        "item_name": "Lactacyd Baby bath Gentle Care 500",
+        "description": "Lactacyd Gentle Care is specially formulated for new born to lids. With milk extract, it gently soothes, protect and preserves your baby's delicate skin \u0026 hair. Keeping your precious one feeling soft, supple and smooth all over. Helps to soothe mild irritation and rash, and protect from harmful bacteria.",
+        "item_sku": "13329",
+        "create_time": 1709541765,
+        "update_time": 1710139907,
+        "attribute_list": [
+          {
+            "attribute_id": 100963,
+            "original_attribute_name": "FDA Registration No.",
+            "attribute_value_list": [
+              { "value_id": 0, "original_value_name": "1", "value_unit": "" }
+            ],
+            "is_mandatory": true
+          }
+        ],
+        "price_info": [
+          { "currency": "PHP", "original_price": 528, "current_price": 528 }
+        ],
+        "image": {
+          "image_id_list": ["ph-11134207-7r98t-lsgsw5sw53d0e5"],
+          "image_url_list": [
+            "https://cf.shopee.ph/file/ph-11134207-7r98t-lsgsw5sw53d0e5"
+          ],
+          "image_ratio": "1:1"
+        },
+        "weight": "0.01",
+        "dimension": {
+          "package_length": 1,
+          "package_width": 1,
+          "package_height": 1
+        },
+        "logistic_info": [
+          {
+            "logistic_id": 4000,
+            "logistic_name": "Standard Local",
+            "enabled": true,
+            "size_id": 0,
+            "is_free": false
+          }
+        ],
+        "pre_order": { "is_pre_order": false, "days_to_ship": 2 },
+        "condition": "NEW",
+        "size_chart": "",
+        "item_status": "UNLIST",
+        "has_model": false,
+        "promotion_id": 0,
+        "brand": { "brand_id": 0, "original_brand_name": "NoBrand" },
+        "item_dangerous": 0,
+        "complaint_policy": {
+          "warranty_time": "",
+          "exclude_entrepreneur_warranty": false,
+          "complaint_address_id": 0,
+          "additional_information": ""
+        },
+        "description_type": "normal",
+        "stock_info_v2": {
+          "summary_info": {
+            "total_reserved_stock": 0,
+            "total_available_stock": 500
+          },
+          "seller_stock": [
+            { "location_id": "PHZ", "stock": 500, "if_saleable": true }
+          ],
+          "shopee_stock": [{ "location_id": "", "stock": 0 }]
+        },
+        "size_chart_id": 0,
+        "promotion_image": {
+          "image_id_list": ["ph-11134207-7r98t-lsgsw5sw53d0e5"],
+          "image_url_list": [
+            "https://cf.shopee.ph/file/ph-11134207-7r98t-lsgsw5sw53d0e5"
+          ]
+        },
+        "deboost": "FALSE"
+      }
+    ]
+  },
+  "debug_message": ""
+}
